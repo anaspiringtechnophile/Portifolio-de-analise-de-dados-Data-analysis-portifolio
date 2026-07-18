@@ -1,0 +1,1261 @@
+ID Atendimento,Data/Hora,Categoria Atividade,Tempo Atendimento (Min),Porteiro Responsável
+"1,001",2026-05-01 06:43:00,Terceiros,2,Porteiro B
+"1,002",2026-05-01 06:05:00,Crachá/Armário,2,Porteiro A
+"1,003",2026-05-01 06:48:00,Crachá/Armário,4,Porteiro C
+"1,004",2026-05-01 06:51:00,Crachá/Armário,2,Porteiro C
+"1,005",2026-05-01 06:02:00,Crachá/Armário,2,Porteiro B
+"1,006",2026-05-01 08:53:00,Crachá/Armário,5,Porteiro B
+"1,007",2026-05-01 07:31:00,Crachá/Armário,4,Porteiro B
+"1,008",2026-05-01 08:26:00,Crachá/Armário,3,Porteiro A
+"1,009",2026-05-01 09:08:00,Terceiros,11,Porteiro C
+"1,010",2026-05-01 13:41:00,Crachá/Armário,6,Porteiro B
+"1,011",2026-05-01 09:23:00,Crachá/Armário,5,Porteiro C
+"1,012",2026-05-01 09:35:00,Terceiros,4,Porteiro B
+"1,013",2026-05-01 14:11:00,Crachá/Armário,10,Porteiro B
+"1,014",2026-05-01 10:31:00,Terceiros,9,Porteiro C
+"1,015",2026-05-01 09:57:00,Terceiros,8,Porteiro B
+"1,016",2026-05-01 10:57:00,Afastamento/RH,7,Porteiro B
+"1,017",2026-05-01 14:14:00,Afastamento/RH,7,Porteiro A
+"1,018",2026-05-01 09:07:00,Terceiros,7,Porteiro A
+"1,019",2026-05-01 15:03:00,Crachá/Armário,11,Porteiro B
+"1,020",2026-05-01 15:34:00,Terceiros,7,Porteiro A
+"1,021",2026-05-01 10:59:00,Terceiros,6,Porteiro A
+"1,022",2026-05-01 15:18:00,Afastamento/RH,10,Porteiro B
+"1,023",2026-05-01 13:25:00,Crachá/Armário,10,Porteiro C
+"1,024",2026-05-01 09:11:00,Afastamento/RH,5,Porteiro B
+"1,025",2026-05-01 09:46:00,Afastamento/RH,9,Porteiro B
+"1,026",2026-05-01 09:39:00,Crachá/Armário,4,Porteiro A
+"1,027",2026-05-01 15:04:00,Terceiros,10,Porteiro C
+"1,028",2026-05-01 17:15:00,Revista Saída,2,Porteiro A
+"1,029",2026-05-01 16:13:00,Revista Saída,3,Porteiro A
+"1,030",2026-05-01 17:45:00,Terceiros,1,Porteiro B
+"1,031",2026-05-01 17:47:00,Revista Saída,1,Porteiro B
+"1,032",2026-05-01 17:36:00,Revista Saída,2,Porteiro B
+"1,033",2026-05-01 16:35:00,Revista Saída,3,Porteiro B
+"1,034",2026-05-01 17:18:00,Revista Saída,1,Porteiro A
+"1,035",2026-05-01 16:03:00,Revista Saída,3,Porteiro B
+"1,036",2026-05-01 16:27:00,Revista Saída,3,Porteiro B
+"1,037",2026-05-01 18:59:00,Revista Saída,1,Porteiro C
+"1,038",2026-05-01 18:36:00,Revista Saída,1,Porteiro A
+"1,039",2026-05-01 17:42:00,Revista Saída,1,Porteiro C
+"1,040",2026-05-01 17:01:00,Revista Saída,2,Porteiro C
+"1,041",2026-05-02 06:25:00,Crachá/Armário,3,Porteiro B
+"1,042",2026-05-02 07:33:00,Crachá/Armário,4,Porteiro B
+"1,043",2026-05-02 06:49:00,Crachá/Armário,2,Porteiro A
+"1,044",2026-05-02 06:56:00,Crachá/Armário,2,Porteiro A
+"1,045",2026-05-02 08:48:00,Terceiros,5,Porteiro B
+"1,046",2026-05-02 06:38:00,Crachá/Armário,4,Porteiro B
+"1,047",2026-05-02 06:11:00,Crachá/Armário,2,Porteiro C
+"1,048",2026-05-02 06:34:00,Crachá/Armário,2,Porteiro A
+"1,049",2026-05-02 07:19:00,Terceiros,3,Porteiro A
+"1,050",2026-05-02 08:18:00,Crachá/Armário,5,Porteiro A
+"1,051",2026-05-02 06:18:00,Crachá/Armário,4,Porteiro B
+"1,052",2026-05-02 08:51:00,Crachá/Armário,4,Porteiro A
+"1,053",2026-05-02 06:34:00,Crachá/Armário,5,Porteiro C
+"1,054",2026-05-02 06:35:00,Terceiros,5,Porteiro A
+"1,055",2026-05-02 13:52:00,Afastamento/RH,10,Porteiro B
+"1,056",2026-05-02 15:57:00,Afastamento/RH,10,Porteiro A
+"1,057",2026-05-02 11:10:00,Afastamento/RH,7,Porteiro A
+"1,058",2026-05-02 10:57:00,Terceiros,8,Porteiro B
+"1,059",2026-05-02 15:45:00,Terceiros,5,Porteiro A
+"1,060",2026-05-02 10:26:00,Terceiros,8,Porteiro A
+"1,061",2026-05-02 13:37:00,Crachá/Armário,11,Porteiro A
+"1,062",2026-05-02 09:21:00,Crachá/Armário,10,Porteiro C
+"1,063",2026-05-02 09:44:00,Terceiros,9,Porteiro C
+"1,064",2026-05-02 11:43:00,Terceiros,6,Porteiro B
+"1,065",2026-05-02 10:18:00,Afastamento/RH,6,Porteiro A
+"1,066",2026-05-02 13:49:00,Afastamento/RH,5,Porteiro A
+"1,067",2026-05-02 15:40:00,Terceiros,6,Porteiro A
+"1,068",2026-05-02 12:56:00,Afastamento/RH,4,Porteiro A
+"1,069",2026-05-02 09:37:00,Afastamento/RH,5,Porteiro A
+"1,070",2026-05-02 13:46:00,Crachá/Armário,9,Porteiro A
+"1,071",2026-05-02 11:59:00,Afastamento/RH,6,Porteiro C
+"1,072",2026-05-02 12:56:00,Terceiros,4,Porteiro A
+"1,073",2026-05-02 18:30:00,Terceiros,2,Porteiro B
+"1,074",2026-05-02 18:15:00,Revista Saída,3,Porteiro B
+"1,075",2026-05-02 17:11:00,Revista Saída,1,Porteiro B
+"1,076",2026-05-02 17:07:00,Revista Saída,2,Porteiro A
+"1,077",2026-05-02 16:35:00,Terceiros,2,Porteiro C
+"1,078",2026-05-02 16:08:00,Revista Saída,1,Porteiro A
+"1,079",2026-05-02 16:45:00,Revista Saída,2,Porteiro B
+"1,080",2026-05-02 18:04:00,Revista Saída,2,Porteiro B
+"1,081",2026-05-02 17:49:00,Revista Saída,1,Porteiro C
+"1,082",2026-05-02 16:53:00,Revista Saída,3,Porteiro A
+"1,083",2026-05-02 18:20:00,Revista Saída,1,Porteiro B
+"1,084",2026-05-02 18:26:00,Revista Saída,1,Porteiro B
+"1,085",2026-05-02 16:34:00,Revista Saída,1,Porteiro C
+"1,086",2026-05-02 17:27:00,Revista Saída,3,Porteiro A
+"1,087",2026-05-02 17:02:00,Revista Saída,1,Porteiro A
+"1,088",2026-05-03 07:09:00,Crachá/Armário,2,Porteiro B
+"1,089",2026-05-03 06:45:00,Crachá/Armário,2,Porteiro A
+"1,090",2026-05-03 07:00:00,Crachá/Armário,5,Porteiro B
+"1,091",2026-05-03 08:07:00,Crachá/Armário,3,Porteiro B
+"1,092",2026-05-03 07:53:00,Terceiros,3,Porteiro A
+"1,093",2026-05-03 07:43:00,Crachá/Armário,3,Porteiro C
+"1,094",2026-05-03 06:16:00,Crachá/Armário,4,Porteiro C
+"1,095",2026-05-03 08:36:00,Crachá/Armário,3,Porteiro C
+"1,096",2026-05-03 08:38:00,Crachá/Armário,5,Porteiro B
+"1,097",2026-05-03 07:49:00,Crachá/Armário,3,Porteiro C
+"1,098",2026-05-03 08:50:00,Terceiros,5,Porteiro A
+"1,099",2026-05-03 07:32:00,Terceiros,5,Porteiro B
+"1,100",2026-05-03 10:50:00,Terceiros,8,Porteiro B
+"1,101",2026-05-03 09:09:00,Terceiros,7,Porteiro A
+"1,102",2026-05-03 10:05:00,Afastamento/RH,8,Porteiro B
+"1,103",2026-05-03 11:42:00,Afastamento/RH,6,Porteiro C
+"1,104",2026-05-03 09:22:00,Afastamento/RH,10,Porteiro C
+"1,105",2026-05-03 14:15:00,Terceiros,11,Porteiro A
+"1,106",2026-05-03 11:31:00,Afastamento/RH,8,Porteiro B
+"1,107",2026-05-03 13:57:00,Afastamento/RH,8,Porteiro A
+"1,108",2026-05-03 10:27:00,Afastamento/RH,9,Porteiro A
+"1,109",2026-05-03 14:00:00,Terceiros,7,Porteiro B
+"1,110",2026-05-03 14:33:00,Afastamento/RH,5,Porteiro A
+"1,111",2026-05-03 11:08:00,Afastamento/RH,10,Porteiro A
+"1,112",2026-05-03 14:46:00,Terceiros,6,Porteiro C
+"1,113",2026-05-03 13:16:00,Afastamento/RH,4,Porteiro A
+"1,114",2026-05-03 11:51:00,Afastamento/RH,10,Porteiro B
+"1,115",2026-05-03 14:25:00,Terceiros,9,Porteiro B
+"1,116",2026-05-03 13:25:00,Afastamento/RH,11,Porteiro C
+"1,117",2026-05-03 15:02:00,Crachá/Armário,9,Porteiro C
+"1,118",2026-05-03 16:17:00,Revista Saída,3,Porteiro C
+"1,119",2026-05-03 18:24:00,Revista Saída,2,Porteiro C
+"1,120",2026-05-03 16:16:00,Revista Saída,2,Porteiro B
+"1,121",2026-05-03 16:16:00,Revista Saída,1,Porteiro B
+"1,122",2026-05-03 18:40:00,Revista Saída,3,Porteiro C
+"1,123",2026-05-03 17:33:00,Revista Saída,1,Porteiro C
+"1,124",2026-05-03 17:40:00,Revista Saída,2,Porteiro B
+"1,125",2026-05-03 18:55:00,Revista Saída,2,Porteiro A
+"1,126",2026-05-03 16:32:00,Revista Saída,1,Porteiro B
+"1,127",2026-05-03 17:54:00,Revista Saída,2,Porteiro C
+"1,128",2026-05-03 17:29:00,Revista Saída,3,Porteiro A
+"1,129",2026-05-03 18:02:00,Revista Saída,1,Porteiro C
+"1,130",2026-05-03 17:01:00,Revista Saída,3,Porteiro C
+"1,131",2026-05-03 17:53:00,Revista Saída,2,Porteiro C
+"1,132",2026-05-03 17:56:00,Revista Saída,3,Porteiro B
+"1,133",2026-05-03 18:44:00,Revista Saída,2,Porteiro B
+"1,134",2026-05-04 08:19:00,Crachá/Armário,2,Porteiro C
+"1,135",2026-05-04 06:25:00,Terceiros,3,Porteiro A
+"1,136",2026-05-04 07:10:00,Terceiros,2,Porteiro C
+"1,137",2026-05-04 08:32:00,Crachá/Armário,5,Porteiro B
+"1,138",2026-05-04 06:22:00,Crachá/Armário,3,Porteiro A
+"1,139",2026-05-04 07:19:00,Crachá/Armário,2,Porteiro A
+"1,140",2026-05-04 06:08:00,Crachá/Armário,5,Porteiro B
+"1,141",2026-05-04 08:34:00,Crachá/Armário,2,Porteiro A
+"1,142",2026-05-04 07:59:00,Terceiros,3,Porteiro A
+"1,143",2026-05-04 08:08:00,Crachá/Armário,4,Porteiro C
+"1,144",2026-05-04 06:39:00,Terceiros,5,Porteiro A
+"1,145",2026-05-04 08:40:00,Terceiros,5,Porteiro B
+"1,146",2026-05-04 08:20:00,Crachá/Armário,4,Porteiro C
+"1,147",2026-05-04 14:03:00,Afastamento/RH,5,Porteiro A
+"1,148",2026-05-04 10:39:00,Afastamento/RH,11,Porteiro B
+"1,149",2026-05-04 11:37:00,Terceiros,10,Porteiro C
+"1,150",2026-05-04 09:24:00,Afastamento/RH,10,Porteiro C
+"1,151",2026-05-04 10:13:00,Afastamento/RH,11,Porteiro C
+"1,152",2026-05-04 15:50:00,Afastamento/RH,6,Porteiro C
+"1,153",2026-05-04 11:07:00,Terceiros,7,Porteiro C
+"1,154",2026-05-04 15:28:00,Afastamento/RH,9,Porteiro C
+"1,155",2026-05-04 11:35:00,Crachá/Armário,4,Porteiro A
+"1,156",2026-05-04 13:36:00,Terceiros,4,Porteiro B
+"1,157",2026-05-04 12:21:00,Terceiros,8,Porteiro C
+"1,158",2026-05-04 10:32:00,Afastamento/RH,8,Porteiro C
+"1,159",2026-05-04 15:35:00,Afastamento/RH,7,Porteiro C
+"1,160",2026-05-04 13:07:00,Afastamento/RH,10,Porteiro A
+"1,161",2026-05-04 10:26:00,Terceiros,6,Porteiro B
+"1,162",2026-05-04 11:26:00,Afastamento/RH,6,Porteiro B
+"1,163",2026-05-04 10:39:00,Terceiros,11,Porteiro C
+"1,164",2026-05-04 15:25:00,Crachá/Armário,7,Porteiro B
+"1,165",2026-05-04 13:39:00,Terceiros,4,Porteiro A
+"1,166",2026-05-04 15:39:00,Crachá/Armário,7,Porteiro A
+"1,167",2026-05-04 13:07:00,Terceiros,4,Porteiro C
+"1,168",2026-05-04 16:53:00,Revista Saída,2,Porteiro A
+"1,169",2026-05-04 17:10:00,Revista Saída,2,Porteiro A
+"1,170",2026-05-04 16:25:00,Revista Saída,2,Porteiro C
+"1,171",2026-05-04 16:00:00,Terceiros,3,Porteiro C
+"1,172",2026-05-04 18:20:00,Revista Saída,1,Porteiro A
+"1,173",2026-05-04 17:51:00,Revista Saída,2,Porteiro A
+"1,174",2026-05-04 18:51:00,Revista Saída,3,Porteiro B
+"1,175",2026-05-04 17:06:00,Revista Saída,2,Porteiro C
+"1,176",2026-05-04 16:42:00,Revista Saída,3,Porteiro C
+"1,177",2026-05-04 17:23:00,Revista Saída,2,Porteiro A
+"1,178",2026-05-04 16:48:00,Revista Saída,3,Porteiro B
+"1,179",2026-05-05 07:20:00,Crachá/Armário,2,Porteiro A
+"1,180",2026-05-05 06:19:00,Crachá/Armário,5,Porteiro C
+"1,181",2026-05-05 06:39:00,Crachá/Armário,2,Porteiro A
+"1,182",2026-05-05 07:22:00,Crachá/Armário,5,Porteiro C
+"1,183",2026-05-05 07:31:00,Crachá/Armário,2,Porteiro A
+"1,184",2026-05-05 06:29:00,Terceiros,4,Porteiro B
+"1,185",2026-05-05 06:13:00,Terceiros,3,Porteiro B
+"1,186",2026-05-05 07:27:00,Crachá/Armário,3,Porteiro B
+"1,187",2026-05-05 08:03:00,Crachá/Armário,2,Porteiro C
+"1,188",2026-05-05 11:31:00,Afastamento/RH,6,Porteiro B
+"1,189",2026-05-05 10:59:00,Crachá/Armário,10,Porteiro B
+"1,190",2026-05-05 15:28:00,Afastamento/RH,4,Porteiro C
+"1,191",2026-05-05 11:23:00,Afastamento/RH,10,Porteiro A
+"1,192",2026-05-05 14:56:00,Terceiros,6,Porteiro C
+"1,193",2026-05-05 09:27:00,Afastamento/RH,5,Porteiro C
+"1,194",2026-05-05 14:31:00,Crachá/Armário,6,Porteiro A
+"1,195",2026-05-05 14:20:00,Afastamento/RH,10,Porteiro B
+"1,196",2026-05-05 15:09:00,Afastamento/RH,10,Porteiro A
+"1,197",2026-05-05 11:47:00,Afastamento/RH,7,Porteiro A
+"1,198",2026-05-05 12:17:00,Crachá/Armário,10,Porteiro A
+"1,199",2026-05-05 12:10:00,Afastamento/RH,5,Porteiro C
+"1,200",2026-05-05 15:54:00,Afastamento/RH,8,Porteiro A
+"1,201",2026-05-05 14:29:00,Afastamento/RH,8,Porteiro C
+"1,202",2026-05-05 12:57:00,Terceiros,11,Porteiro A
+"1,203",2026-05-05 10:29:00,Afastamento/RH,9,Porteiro C
+"1,204",2026-05-05 09:49:00,Afastamento/RH,9,Porteiro A
+"1,205",2026-05-05 10:44:00,Afastamento/RH,4,Porteiro B
+"1,206",2026-05-05 18:45:00,Terceiros,2,Porteiro A
+"1,207",2026-05-05 16:33:00,Revista Saída,3,Porteiro B
+"1,208",2026-05-05 17:20:00,Revista Saída,1,Porteiro B
+"1,209",2026-05-05 17:16:00,Revista Saída,2,Porteiro B
+"1,210",2026-05-05 18:52:00,Revista Saída,1,Porteiro C
+"1,211",2026-05-05 16:30:00,Terceiros,2,Porteiro A
+"1,212",2026-05-05 16:52:00,Revista Saída,1,Porteiro A
+"1,213",2026-05-05 17:20:00,Revista Saída,2,Porteiro B
+"1,214",2026-05-05 17:59:00,Terceiros,1,Porteiro C
+"1,215",2026-05-05 16:35:00,Revista Saída,1,Porteiro A
+"1,216",2026-05-05 18:39:00,Revista Saída,1,Porteiro C
+"1,217",2026-05-05 18:39:00,Revista Saída,2,Porteiro C
+"1,218",2026-05-05 18:23:00,Terceiros,1,Porteiro A
+"1,219",2026-05-05 17:35:00,Revista Saída,3,Porteiro C
+"1,220",2026-05-05 18:16:00,Revista Saída,1,Porteiro C
+"1,221",2026-05-06 06:25:00,Crachá/Armário,2,Porteiro A
+"1,222",2026-05-06 06:00:00,Crachá/Armário,4,Porteiro B
+"1,223",2026-05-06 06:38:00,Crachá/Armário,3,Porteiro A
+"1,224",2026-05-06 08:29:00,Crachá/Armário,5,Porteiro C
+"1,225",2026-05-06 06:43:00,Terceiros,2,Porteiro A
+"1,226",2026-05-06 06:09:00,Crachá/Armário,2,Porteiro C
+"1,227",2026-05-06 07:15:00,Terceiros,5,Porteiro C
+"1,228",2026-05-06 06:16:00,Crachá/Armário,3,Porteiro B
+"1,229",2026-05-06 06:17:00,Crachá/Armário,4,Porteiro C
+"1,230",2026-05-06 09:44:00,Terceiros,11,Porteiro B
+"1,231",2026-05-06 15:16:00,Afastamento/RH,8,Porteiro B
+"1,232",2026-05-06 10:06:00,Afastamento/RH,8,Porteiro C
+"1,233",2026-05-06 09:50:00,Crachá/Armário,5,Porteiro C
+"1,234",2026-05-06 15:28:00,Afastamento/RH,9,Porteiro C
+"1,235",2026-05-06 11:17:00,Terceiros,10,Porteiro A
+"1,236",2026-05-06 14:30:00,Afastamento/RH,7,Porteiro A
+"1,237",2026-05-06 10:02:00,Terceiros,11,Porteiro B
+"1,238",2026-05-06 15:22:00,Afastamento/RH,10,Porteiro A
+"1,239",2026-05-06 12:28:00,Terceiros,8,Porteiro B
+"1,240",2026-05-06 09:15:00,Afastamento/RH,7,Porteiro B
+"1,241",2026-05-06 10:54:00,Afastamento/RH,5,Porteiro B
+"1,242",2026-05-06 11:54:00,Afastamento/RH,5,Porteiro C
+"1,243",2026-05-06 11:38:00,Afastamento/RH,8,Porteiro B
+"1,244",2026-05-06 09:28:00,Afastamento/RH,7,Porteiro A
+"1,245",2026-05-06 12:46:00,Afastamento/RH,9,Porteiro A
+"1,246",2026-05-06 15:38:00,Terceiros,4,Porteiro B
+"1,247",2026-05-06 09:02:00,Afastamento/RH,11,Porteiro B
+"1,248",2026-05-06 10:03:00,Terceiros,8,Porteiro A
+"1,249",2026-05-06 09:52:00,Crachá/Armário,4,Porteiro C
+"1,250",2026-05-06 09:56:00,Terceiros,7,Porteiro C
+"1,251",2026-05-06 16:36:00,Revista Saída,2,Porteiro C
+"1,252",2026-05-06 18:45:00,Revista Saída,2,Porteiro A
+"1,253",2026-05-06 17:24:00,Revista Saída,3,Porteiro A
+"1,254",2026-05-06 18:53:00,Revista Saída,1,Porteiro B
+"1,255",2026-05-06 17:42:00,Revista Saída,2,Porteiro A
+"1,256",2026-05-06 16:57:00,Revista Saída,2,Porteiro A
+"1,257",2026-05-06 16:53:00,Terceiros,1,Porteiro A
+"1,258",2026-05-06 18:19:00,Terceiros,1,Porteiro C
+"1,259",2026-05-06 17:34:00,Revista Saída,2,Porteiro A
+"1,260",2026-05-06 18:31:00,Revista Saída,1,Porteiro A
+"1,261",2026-05-06 18:24:00,Revista Saída,2,Porteiro A
+"1,262",2026-05-07 08:40:00,Crachá/Armário,4,Porteiro A
+"1,263",2026-05-07 06:02:00,Terceiros,5,Porteiro B
+"1,264",2026-05-07 06:14:00,Crachá/Armário,2,Porteiro C
+"1,265",2026-05-07 08:33:00,Crachá/Armário,4,Porteiro B
+"1,266",2026-05-07 08:04:00,Crachá/Armário,3,Porteiro B
+"1,267",2026-05-07 06:59:00,Crachá/Armário,5,Porteiro A
+"1,268",2026-05-07 06:16:00,Crachá/Armário,2,Porteiro B
+"1,269",2026-05-07 06:50:00,Terceiros,5,Porteiro B
+"1,270",2026-05-07 08:12:00,Crachá/Armário,3,Porteiro C
+"1,271",2026-05-07 12:32:00,Afastamento/RH,11,Porteiro A
+"1,272",2026-05-07 13:42:00,Afastamento/RH,8,Porteiro B
+"1,273",2026-05-07 12:26:00,Terceiros,10,Porteiro A
+"1,274",2026-05-07 11:44:00,Crachá/Armário,6,Porteiro C
+"1,275",2026-05-07 15:41:00,Afastamento/RH,6,Porteiro A
+"1,276",2026-05-07 14:38:00,Afastamento/RH,7,Porteiro B
+"1,277",2026-05-07 14:12:00,Terceiros,10,Porteiro B
+"1,278",2026-05-07 13:45:00,Afastamento/RH,4,Porteiro A
+"1,279",2026-05-07 15:33:00,Terceiros,11,Porteiro A
+"1,280",2026-05-07 11:47:00,Afastamento/RH,9,Porteiro C
+"1,281",2026-05-07 10:40:00,Crachá/Armário,10,Porteiro C
+"1,282",2026-05-07 14:36:00,Afastamento/RH,7,Porteiro B
+"1,283",2026-05-07 12:26:00,Afastamento/RH,7,Porteiro B
+"1,284",2026-05-07 09:09:00,Afastamento/RH,9,Porteiro B
+"1,285",2026-05-07 11:17:00,Crachá/Armário,11,Porteiro C
+"1,286",2026-05-07 13:11:00,Terceiros,6,Porteiro A
+"1,287",2026-05-07 12:06:00,Afastamento/RH,4,Porteiro B
+"1,288",2026-05-07 15:14:00,Crachá/Armário,6,Porteiro B
+"1,289",2026-05-07 15:25:00,Afastamento/RH,5,Porteiro A
+"1,290",2026-05-07 16:34:00,Revista Saída,3,Porteiro C
+"1,291",2026-05-07 18:28:00,Revista Saída,2,Porteiro C
+"1,292",2026-05-07 17:19:00,Revista Saída,3,Porteiro C
+"1,293",2026-05-07 16:43:00,Revista Saída,1,Porteiro A
+"1,294",2026-05-07 18:15:00,Terceiros,2,Porteiro C
+"1,295",2026-05-07 16:04:00,Terceiros,1,Porteiro B
+"1,296",2026-05-07 17:14:00,Revista Saída,3,Porteiro A
+"1,297",2026-05-07 16:23:00,Revista Saída,3,Porteiro C
+"1,298",2026-05-07 17:24:00,Terceiros,1,Porteiro C
+"1,299",2026-05-07 18:45:00,Revista Saída,3,Porteiro C
+"1,300",2026-05-07 16:43:00,Revista Saída,2,Porteiro C
+"1,301",2026-05-07 17:14:00,Revista Saída,2,Porteiro C
+"1,302",2026-05-07 16:43:00,Revista Saída,1,Porteiro B
+"1,303",2026-05-08 08:21:00,Crachá/Armário,2,Porteiro B
+"1,304",2026-05-08 08:12:00,Crachá/Armário,2,Porteiro B
+"1,305",2026-05-08 07:17:00,Crachá/Armário,4,Porteiro B
+"1,306",2026-05-08 08:44:00,Terceiros,5,Porteiro B
+"1,307",2026-05-08 06:07:00,Terceiros,4,Porteiro A
+"1,308",2026-05-08 06:11:00,Terceiros,5,Porteiro C
+"1,309",2026-05-08 07:21:00,Crachá/Armário,2,Porteiro B
+"1,310",2026-05-08 07:59:00,Crachá/Armário,2,Porteiro A
+"1,311",2026-05-08 13:29:00,Afastamento/RH,7,Porteiro B
+"1,312",2026-05-08 14:38:00,Afastamento/RH,10,Porteiro B
+"1,313",2026-05-08 14:57:00,Crachá/Armário,5,Porteiro B
+"1,314",2026-05-08 15:43:00,Afastamento/RH,6,Porteiro A
+"1,315",2026-05-08 11:58:00,Afastamento/RH,9,Porteiro A
+"1,316",2026-05-08 15:30:00,Terceiros,5,Porteiro B
+"1,317",2026-05-08 12:19:00,Afastamento/RH,6,Porteiro C
+"1,318",2026-05-08 15:10:00,Crachá/Armário,7,Porteiro B
+"1,319",2026-05-08 10:21:00,Afastamento/RH,6,Porteiro C
+"1,320",2026-05-08 09:59:00,Terceiros,6,Porteiro B
+"1,321",2026-05-08 14:11:00,Afastamento/RH,8,Porteiro A
+"1,322",2026-05-08 13:50:00,Afastamento/RH,10,Porteiro B
+"1,323",2026-05-08 12:44:00,Afastamento/RH,10,Porteiro A
+"1,324",2026-05-08 15:31:00,Afastamento/RH,5,Porteiro B
+"1,325",2026-05-08 10:18:00,Afastamento/RH,11,Porteiro A
+"1,326",2026-05-08 11:02:00,Afastamento/RH,6,Porteiro C
+"1,327",2026-05-08 13:28:00,Afastamento/RH,10,Porteiro A
+"1,328",2026-05-08 15:11:00,Afastamento/RH,8,Porteiro C
+"1,329",2026-05-08 10:23:00,Afastamento/RH,7,Porteiro B
+"1,330",2026-05-08 12:59:00,Afastamento/RH,4,Porteiro C
+"1,331",2026-05-08 16:35:00,Revista Saída,2,Porteiro B
+"1,332",2026-05-08 18:33:00,Revista Saída,3,Porteiro B
+"1,333",2026-05-08 18:50:00,Revista Saída,1,Porteiro C
+"1,334",2026-05-08 16:17:00,Revista Saída,3,Porteiro A
+"1,335",2026-05-08 18:25:00,Revista Saída,2,Porteiro C
+"1,336",2026-05-08 17:43:00,Revista Saída,2,Porteiro C
+"1,337",2026-05-08 16:04:00,Revista Saída,1,Porteiro B
+"1,338",2026-05-08 17:59:00,Revista Saída,2,Porteiro C
+"1,339",2026-05-08 16:19:00,Revista Saída,2,Porteiro A
+"1,340",2026-05-08 18:24:00,Terceiros,2,Porteiro C
+"1,341",2026-05-08 16:04:00,Revista Saída,1,Porteiro C
+"1,342",2026-05-08 18:30:00,Revista Saída,3,Porteiro B
+"1,343",2026-05-08 17:15:00,Revista Saída,2,Porteiro B
+"1,344",2026-05-08 16:00:00,Revista Saída,3,Porteiro A
+"1,345",2026-05-08 16:53:00,Revista Saída,1,Porteiro C
+"1,346",2026-05-08 16:46:00,Revista Saída,1,Porteiro A
+"1,347",2026-05-08 16:55:00,Revista Saída,3,Porteiro C
+"1,348",2026-05-09 08:19:00,Crachá/Armário,3,Porteiro A
+"1,349",2026-05-09 08:36:00,Terceiros,2,Porteiro A
+"1,350",2026-05-09 08:34:00,Crachá/Armário,2,Porteiro C
+"1,351",2026-05-09 06:32:00,Crachá/Armário,3,Porteiro B
+"1,352",2026-05-09 06:49:00,Terceiros,4,Porteiro B
+"1,353",2026-05-09 07:24:00,Crachá/Armário,2,Porteiro C
+"1,354",2026-05-09 08:55:00,Crachá/Armário,3,Porteiro C
+"1,355",2026-05-09 07:19:00,Crachá/Armário,3,Porteiro A
+"1,356",2026-05-09 07:41:00,Terceiros,5,Porteiro B
+"1,357",2026-05-09 06:00:00,Terceiros,2,Porteiro B
+"1,358",2026-05-09 06:46:00,Crachá/Armário,3,Porteiro A
+"1,359",2026-05-09 08:54:00,Terceiros,3,Porteiro B
+"1,360",2026-05-09 07:17:00,Crachá/Armário,5,Porteiro C
+"1,361",2026-05-09 09:11:00,Afastamento/RH,4,Porteiro B
+"1,362",2026-05-09 12:32:00,Terceiros,10,Porteiro B
+"1,363",2026-05-09 13:47:00,Terceiros,5,Porteiro B
+"1,364",2026-05-09 12:01:00,Crachá/Armário,9,Porteiro C
+"1,365",2026-05-09 09:32:00,Afastamento/RH,11,Porteiro A
+"1,366",2026-05-09 09:52:00,Terceiros,4,Porteiro C
+"1,367",2026-05-09 12:33:00,Afastamento/RH,9,Porteiro B
+"1,368",2026-05-09 11:05:00,Crachá/Armário,8,Porteiro A
+"1,369",2026-05-09 15:18:00,Crachá/Armário,4,Porteiro B
+"1,370",2026-05-09 14:06:00,Afastamento/RH,10,Porteiro A
+"1,371",2026-05-09 12:57:00,Afastamento/RH,8,Porteiro C
+"1,372",2026-05-09 12:28:00,Afastamento/RH,4,Porteiro A
+"1,373",2026-05-09 11:43:00,Afastamento/RH,6,Porteiro C
+"1,374",2026-05-09 14:13:00,Terceiros,9,Porteiro A
+"1,375",2026-05-09 11:20:00,Crachá/Armário,11,Porteiro B
+"1,376",2026-05-09 14:27:00,Afastamento/RH,5,Porteiro A
+"1,377",2026-05-09 12:04:00,Afastamento/RH,8,Porteiro C
+"1,378",2026-05-09 12:35:00,Terceiros,11,Porteiro C
+"1,379",2026-05-09 14:45:00,Terceiros,6,Porteiro C
+"1,380",2026-05-09 16:22:00,Revista Saída,3,Porteiro A
+"1,381",2026-05-09 18:24:00,Revista Saída,3,Porteiro C
+"1,382",2026-05-09 16:12:00,Revista Saída,2,Porteiro B
+"1,383",2026-05-09 16:03:00,Revista Saída,2,Porteiro C
+"1,384",2026-05-09 16:46:00,Revista Saída,2,Porteiro B
+"1,385",2026-05-09 17:01:00,Revista Saída,2,Porteiro A
+"1,386",2026-05-09 17:10:00,Revista Saída,2,Porteiro C
+"1,387",2026-05-09 16:30:00,Revista Saída,1,Porteiro B
+"1,388",2026-05-09 16:41:00,Terceiros,2,Porteiro C
+"1,389",2026-05-09 17:00:00,Revista Saída,1,Porteiro B
+"1,390",2026-05-09 18:58:00,Revista Saída,2,Porteiro B
+"1,391",2026-05-09 16:21:00,Revista Saída,2,Porteiro A
+"1,392",2026-05-09 18:09:00,Revista Saída,1,Porteiro A
+"1,393",2026-05-09 17:07:00,Revista Saída,1,Porteiro B
+"1,394",2026-05-10 06:03:00,Crachá/Armário,4,Porteiro C
+"1,395",2026-05-10 07:24:00,Crachá/Armário,5,Porteiro B
+"1,396",2026-05-10 06:54:00,Crachá/Armário,4,Porteiro A
+"1,397",2026-05-10 08:43:00,Terceiros,4,Porteiro A
+"1,398",2026-05-10 06:21:00,Crachá/Armário,4,Porteiro C
+"1,399",2026-05-10 08:31:00,Crachá/Armário,2,Porteiro B
+"1,400",2026-05-10 06:56:00,Crachá/Armário,3,Porteiro C
+"1,401",2026-05-10 08:20:00,Crachá/Armário,3,Porteiro B
+"1,402",2026-05-10 06:38:00,Terceiros,4,Porteiro C
+"1,403",2026-05-10 07:18:00,Crachá/Armário,3,Porteiro B
+"1,404",2026-05-10 13:45:00,Afastamento/RH,8,Porteiro A
+"1,405",2026-05-10 12:02:00,Afastamento/RH,4,Porteiro C
+"1,406",2026-05-10 14:40:00,Terceiros,8,Porteiro A
+"1,407",2026-05-10 12:01:00,Terceiros,7,Porteiro C
+"1,408",2026-05-10 13:07:00,Crachá/Armário,5,Porteiro C
+"1,409",2026-05-10 14:43:00,Afastamento/RH,6,Porteiro B
+"1,410",2026-05-10 14:01:00,Crachá/Armário,5,Porteiro B
+"1,411",2026-05-10 09:34:00,Terceiros,9,Porteiro B
+"1,412",2026-05-10 12:57:00,Crachá/Armário,8,Porteiro A
+"1,413",2026-05-10 15:46:00,Afastamento/RH,11,Porteiro B
+"1,414",2026-05-10 14:29:00,Afastamento/RH,11,Porteiro A
+"1,415",2026-05-10 12:07:00,Terceiros,11,Porteiro B
+"1,416",2026-05-10 13:22:00,Afastamento/RH,11,Porteiro B
+"1,417",2026-05-10 13:19:00,Crachá/Armário,7,Porteiro A
+"1,418",2026-05-10 09:29:00,Terceiros,9,Porteiro B
+"1,419",2026-05-10 10:07:00,Terceiros,4,Porteiro A
+"1,420",2026-05-10 12:37:00,Afastamento/RH,8,Porteiro B
+"1,421",2026-05-10 12:32:00,Afastamento/RH,8,Porteiro B
+"1,422",2026-05-10 16:01:00,Terceiros,1,Porteiro A
+"1,423",2026-05-10 18:02:00,Revista Saída,3,Porteiro B
+"1,424",2026-05-10 17:54:00,Revista Saída,2,Porteiro C
+"1,425",2026-05-10 18:21:00,Revista Saída,2,Porteiro C
+"1,426",2026-05-10 16:41:00,Revista Saída,1,Porteiro C
+"1,427",2026-05-10 17:23:00,Revista Saída,2,Porteiro B
+"1,428",2026-05-10 18:15:00,Revista Saída,2,Porteiro A
+"1,429",2026-05-10 18:20:00,Revista Saída,3,Porteiro B
+"1,430",2026-05-10 18:17:00,Terceiros,2,Porteiro B
+"1,431",2026-05-10 16:01:00,Revista Saída,2,Porteiro A
+"1,432",2026-05-11 08:13:00,Crachá/Armário,5,Porteiro B
+"1,433",2026-05-11 07:51:00,Crachá/Armário,2,Porteiro B
+"1,434",2026-05-11 06:12:00,Crachá/Armário,5,Porteiro A
+"1,435",2026-05-11 07:03:00,Crachá/Armário,5,Porteiro A
+"1,436",2026-05-11 06:30:00,Crachá/Armário,3,Porteiro A
+"1,437",2026-05-11 08:05:00,Crachá/Armário,4,Porteiro B
+"1,438",2026-05-11 07:59:00,Crachá/Armário,4,Porteiro C
+"1,439",2026-05-11 06:18:00,Crachá/Armário,2,Porteiro B
+"1,440",2026-05-11 07:10:00,Terceiros,4,Porteiro C
+"1,441",2026-05-11 06:22:00,Crachá/Armário,4,Porteiro A
+"1,442",2026-05-11 06:27:00,Crachá/Armário,4,Porteiro C
+"1,443",2026-05-11 12:03:00,Crachá/Armário,4,Porteiro A
+"1,444",2026-05-11 15:59:00,Afastamento/RH,7,Porteiro B
+"1,445",2026-05-11 15:49:00,Afastamento/RH,7,Porteiro C
+"1,446",2026-05-11 14:34:00,Afastamento/RH,7,Porteiro B
+"1,447",2026-05-11 14:06:00,Terceiros,9,Porteiro A
+"1,448",2026-05-11 14:54:00,Afastamento/RH,6,Porteiro A
+"1,449",2026-05-11 14:37:00,Afastamento/RH,5,Porteiro C
+"1,450",2026-05-11 10:55:00,Terceiros,4,Porteiro A
+"1,451",2026-05-11 13:25:00,Afastamento/RH,8,Porteiro A
+"1,452",2026-05-11 10:36:00,Crachá/Armário,7,Porteiro A
+"1,453",2026-05-11 11:48:00,Terceiros,10,Porteiro A
+"1,454",2026-05-11 12:54:00,Afastamento/RH,9,Porteiro B
+"1,455",2026-05-11 17:39:00,Revista Saída,1,Porteiro A
+"1,456",2026-05-11 17:41:00,Revista Saída,1,Porteiro A
+"1,457",2026-05-11 16:16:00,Revista Saída,1,Porteiro A
+"1,458",2026-05-11 17:59:00,Revista Saída,1,Porteiro B
+"1,459",2026-05-11 17:57:00,Revista Saída,1,Porteiro C
+"1,460",2026-05-11 18:33:00,Revista Saída,2,Porteiro A
+"1,461",2026-05-11 18:16:00,Revista Saída,1,Porteiro C
+"1,462",2026-05-11 16:31:00,Terceiros,3,Porteiro A
+"1,463",2026-05-11 16:07:00,Revista Saída,3,Porteiro A
+"1,464",2026-05-11 16:50:00,Revista Saída,1,Porteiro A
+"1,465",2026-05-11 16:39:00,Revista Saída,2,Porteiro C
+"1,466",2026-05-11 18:18:00,Revista Saída,3,Porteiro C
+"1,467",2026-05-11 17:04:00,Revista Saída,2,Porteiro B
+"1,468",2026-05-12 08:31:00,Crachá/Armário,2,Porteiro C
+"1,469",2026-05-12 06:08:00,Crachá/Armário,3,Porteiro C
+"1,470",2026-05-12 06:35:00,Crachá/Armário,3,Porteiro A
+"1,471",2026-05-12 06:24:00,Crachá/Armário,3,Porteiro C
+"1,472",2026-05-12 07:09:00,Terceiros,5,Porteiro C
+"1,473",2026-05-12 07:53:00,Crachá/Armário,5,Porteiro C
+"1,474",2026-05-12 07:10:00,Crachá/Armário,2,Porteiro B
+"1,475",2026-05-12 08:08:00,Crachá/Armário,4,Porteiro B
+"1,476",2026-05-12 07:24:00,Crachá/Armário,5,Porteiro B
+"1,477",2026-05-12 06:43:00,Crachá/Armário,3,Porteiro A
+"1,478",2026-05-12 06:34:00,Crachá/Armário,3,Porteiro C
+"1,479",2026-05-12 08:48:00,Crachá/Armário,4,Porteiro B
+"1,480",2026-05-12 06:12:00,Crachá/Armário,3,Porteiro B
+"1,481",2026-05-12 14:06:00,Afastamento/RH,11,Porteiro C
+"1,482",2026-05-12 14:21:00,Crachá/Armário,9,Porteiro A
+"1,483",2026-05-12 13:17:00,Afastamento/RH,8,Porteiro C
+"1,484",2026-05-12 12:26:00,Crachá/Armário,10,Porteiro C
+"1,485",2026-05-12 15:23:00,Afastamento/RH,9,Porteiro C
+"1,486",2026-05-12 13:32:00,Terceiros,10,Porteiro B
+"1,487",2026-05-12 11:22:00,Terceiros,10,Porteiro C
+"1,488",2026-05-12 09:36:00,Afastamento/RH,5,Porteiro B
+"1,489",2026-05-12 09:43:00,Terceiros,4,Porteiro C
+"1,490",2026-05-12 10:33:00,Afastamento/RH,5,Porteiro A
+"1,491",2026-05-12 14:38:00,Terceiros,5,Porteiro A
+"1,492",2026-05-12 13:08:00,Terceiros,9,Porteiro B
+"1,493",2026-05-12 10:57:00,Afastamento/RH,4,Porteiro B
+"1,494",2026-05-12 14:56:00,Crachá/Armário,4,Porteiro C
+"1,495",2026-05-12 11:30:00,Afastamento/RH,11,Porteiro C
+"1,496",2026-05-12 13:57:00,Afastamento/RH,8,Porteiro B
+"1,497",2026-05-12 14:34:00,Afastamento/RH,9,Porteiro A
+"1,498",2026-05-12 14:39:00,Afastamento/RH,5,Porteiro B
+"1,499",2026-05-12 14:03:00,Afastamento/RH,8,Porteiro A
+"1,500",2026-05-12 18:03:00,Revista Saída,3,Porteiro A
+"1,501",2026-05-12 17:54:00,Revista Saída,2,Porteiro B
+"1,502",2026-05-12 17:17:00,Revista Saída,3,Porteiro A
+"1,503",2026-05-12 18:45:00,Revista Saída,1,Porteiro B
+"1,504",2026-05-12 17:37:00,Revista Saída,3,Porteiro A
+"1,505",2026-05-12 17:54:00,Revista Saída,1,Porteiro B
+"1,506",2026-05-12 18:51:00,Revista Saída,3,Porteiro C
+"1,507",2026-05-12 18:56:00,Terceiros,1,Porteiro A
+"1,508",2026-05-12 16:05:00,Revista Saída,3,Porteiro C
+"1,509",2026-05-12 18:05:00,Terceiros,3,Porteiro C
+"1,510",2026-05-12 16:25:00,Revista Saída,1,Porteiro A
+"1,511",2026-05-12 17:49:00,Revista Saída,3,Porteiro A
+"1,512",2026-05-12 17:53:00,Revista Saída,1,Porteiro C
+"1,513",2026-05-12 16:50:00,Terceiros,2,Porteiro C
+"1,514",2026-05-12 17:25:00,Terceiros,1,Porteiro A
+"1,515",2026-05-12 16:20:00,Revista Saída,1,Porteiro B
+"1,516",2026-05-13 07:38:00,Terceiros,4,Porteiro A
+"1,517",2026-05-13 06:35:00,Terceiros,3,Porteiro B
+"1,518",2026-05-13 06:30:00,Terceiros,2,Porteiro A
+"1,519",2026-05-13 07:23:00,Crachá/Armário,3,Porteiro B
+"1,520",2026-05-13 08:34:00,Crachá/Armário,3,Porteiro B
+"1,521",2026-05-13 07:30:00,Crachá/Armário,2,Porteiro B
+"1,522",2026-05-13 06:44:00,Terceiros,4,Porteiro B
+"1,523",2026-05-13 07:42:00,Crachá/Armário,5,Porteiro B
+"1,524",2026-05-13 06:26:00,Crachá/Armário,4,Porteiro C
+"1,525",2026-05-13 11:19:00,Afastamento/RH,11,Porteiro C
+"1,526",2026-05-13 13:41:00,Crachá/Armário,11,Porteiro B
+"1,527",2026-05-13 09:36:00,Crachá/Armário,5,Porteiro A
+"1,528",2026-05-13 11:22:00,Afastamento/RH,11,Porteiro A
+"1,529",2026-05-13 11:50:00,Crachá/Armário,11,Porteiro A
+"1,530",2026-05-13 13:40:00,Afastamento/RH,8,Porteiro C
+"1,531",2026-05-13 10:56:00,Crachá/Armário,10,Porteiro A
+"1,532",2026-05-13 09:23:00,Afastamento/RH,5,Porteiro B
+"1,533",2026-05-13 11:40:00,Terceiros,4,Porteiro A
+"1,534",2026-05-13 10:05:00,Afastamento/RH,5,Porteiro A
+"1,535",2026-05-13 10:20:00,Afastamento/RH,9,Porteiro A
+"1,536",2026-05-13 10:09:00,Afastamento/RH,11,Porteiro C
+"1,537",2026-05-13 13:38:00,Terceiros,11,Porteiro C
+"1,538",2026-05-13 17:59:00,Revista Saída,3,Porteiro C
+"1,539",2026-05-13 18:48:00,Revista Saída,3,Porteiro A
+"1,540",2026-05-13 17:03:00,Revista Saída,2,Porteiro C
+"1,541",2026-05-13 16:14:00,Terceiros,2,Porteiro C
+"1,542",2026-05-13 16:40:00,Revista Saída,2,Porteiro A
+"1,543",2026-05-13 18:01:00,Revista Saída,2,Porteiro C
+"1,544",2026-05-13 16:41:00,Revista Saída,2,Porteiro C
+"1,545",2026-05-13 18:24:00,Revista Saída,3,Porteiro C
+"1,546",2026-05-13 16:50:00,Revista Saída,2,Porteiro A
+"1,547",2026-05-13 16:20:00,Revista Saída,1,Porteiro C
+"1,548",2026-05-13 18:47:00,Terceiros,2,Porteiro B
+"1,549",2026-05-13 17:11:00,Revista Saída,3,Porteiro A
+"1,550",2026-05-13 18:26:00,Revista Saída,2,Porteiro A
+"1,551",2026-05-13 16:54:00,Revista Saída,1,Porteiro C
+"1,552",2026-05-13 16:03:00,Revista Saída,2,Porteiro B
+"1,553",2026-05-13 18:31:00,Revista Saída,3,Porteiro B
+"1,554",2026-05-13 18:15:00,Terceiros,1,Porteiro C
+"1,555",2026-05-14 06:29:00,Crachá/Armário,5,Porteiro B
+"1,556",2026-05-14 07:30:00,Crachá/Armário,5,Porteiro C
+"1,557",2026-05-14 06:24:00,Crachá/Armário,5,Porteiro A
+"1,558",2026-05-14 07:25:00,Crachá/Armário,2,Porteiro C
+"1,559",2026-05-14 06:27:00,Terceiros,5,Porteiro B
+"1,560",2026-05-14 07:05:00,Terceiros,5,Porteiro A
+"1,561",2026-05-14 08:01:00,Terceiros,5,Porteiro A
+"1,562",2026-05-14 06:23:00,Crachá/Armário,4,Porteiro B
+"1,563",2026-05-14 07:47:00,Terceiros,5,Porteiro B
+"1,564",2026-05-14 07:32:00,Crachá/Armário,5,Porteiro B
+"1,565",2026-05-14 06:50:00,Crachá/Armário,3,Porteiro C
+"1,566",2026-05-14 06:22:00,Crachá/Armário,3,Porteiro A
+"1,567",2026-05-14 12:10:00,Crachá/Armário,6,Porteiro C
+"1,568",2026-05-14 09:19:00,Terceiros,5,Porteiro B
+"1,569",2026-05-14 11:39:00,Afastamento/RH,10,Porteiro C
+"1,570",2026-05-14 14:08:00,Terceiros,4,Porteiro C
+"1,571",2026-05-14 15:02:00,Terceiros,4,Porteiro C
+"1,572",2026-05-14 14:14:00,Afastamento/RH,6,Porteiro A
+"1,573",2026-05-14 13:52:00,Terceiros,9,Porteiro A
+"1,574",2026-05-14 15:08:00,Terceiros,8,Porteiro C
+"1,575",2026-05-14 10:50:00,Crachá/Armário,6,Porteiro C
+"1,576",2026-05-14 15:58:00,Afastamento/RH,11,Porteiro B
+"1,577",2026-05-14 14:13:00,Crachá/Armário,11,Porteiro B
+"1,578",2026-05-14 11:18:00,Crachá/Armário,9,Porteiro C
+"1,579",2026-05-14 12:48:00,Afastamento/RH,11,Porteiro B
+"1,580",2026-05-14 10:37:00,Afastamento/RH,11,Porteiro A
+"1,581",2026-05-14 11:45:00,Crachá/Armário,5,Porteiro C
+"1,582",2026-05-14 09:27:00,Afastamento/RH,10,Porteiro B
+"1,583",2026-05-14 16:58:00,Revista Saída,1,Porteiro C
+"1,584",2026-05-14 18:51:00,Revista Saída,2,Porteiro A
+"1,585",2026-05-14 16:35:00,Revista Saída,2,Porteiro A
+"1,586",2026-05-14 16:55:00,Revista Saída,2,Porteiro C
+"1,587",2026-05-14 16:34:00,Revista Saída,2,Porteiro B
+"1,588",2026-05-14 16:03:00,Revista Saída,2,Porteiro A
+"1,589",2026-05-14 16:45:00,Revista Saída,3,Porteiro C
+"1,590",2026-05-14 18:15:00,Revista Saída,1,Porteiro B
+"1,591",2026-05-14 18:10:00,Terceiros,2,Porteiro A
+"1,592",2026-05-14 18:20:00,Revista Saída,1,Porteiro C
+"1,593",2026-05-14 16:52:00,Revista Saída,1,Porteiro A
+"1,594",2026-05-14 18:16:00,Revista Saída,1,Porteiro A
+"1,595",2026-05-14 18:46:00,Revista Saída,2,Porteiro B
+"1,596",2026-05-14 18:14:00,Revista Saída,2,Porteiro A
+"1,597",2026-05-14 17:39:00,Terceiros,2,Porteiro A
+"1,598",2026-05-14 16:50:00,Revista Saída,3,Porteiro B
+"1,599",2026-05-15 06:02:00,Crachá/Armário,3,Porteiro B
+"1,600",2026-05-15 08:54:00,Terceiros,5,Porteiro C
+"1,601",2026-05-15 07:05:00,Terceiros,3,Porteiro A
+"1,602",2026-05-15 06:11:00,Crachá/Armário,4,Porteiro C
+"1,603",2026-05-15 07:00:00,Crachá/Armário,2,Porteiro A
+"1,604",2026-05-15 08:39:00,Crachá/Armário,5,Porteiro A
+"1,605",2026-05-15 06:12:00,Crachá/Armário,2,Porteiro B
+"1,606",2026-05-15 06:07:00,Crachá/Armário,5,Porteiro A
+"1,607",2026-05-15 07:38:00,Terceiros,2,Porteiro B
+"1,608",2026-05-15 07:42:00,Crachá/Armário,2,Porteiro A
+"1,609",2026-05-15 06:48:00,Crachá/Armário,5,Porteiro A
+"1,610",2026-05-15 11:38:00,Terceiros,10,Porteiro A
+"1,611",2026-05-15 11:45:00,Crachá/Armário,8,Porteiro C
+"1,612",2026-05-15 14:44:00,Afastamento/RH,7,Porteiro C
+"1,613",2026-05-15 12:07:00,Crachá/Armário,8,Porteiro A
+"1,614",2026-05-15 12:47:00,Afastamento/RH,5,Porteiro C
+"1,615",2026-05-15 12:57:00,Terceiros,4,Porteiro C
+"1,616",2026-05-15 14:22:00,Terceiros,10,Porteiro C
+"1,617",2026-05-15 09:46:00,Crachá/Armário,5,Porteiro B
+"1,618",2026-05-15 12:29:00,Crachá/Armário,7,Porteiro B
+"1,619",2026-05-15 13:18:00,Terceiros,11,Porteiro A
+"1,620",2026-05-15 09:11:00,Afastamento/RH,10,Porteiro A
+"1,621",2026-05-15 15:01:00,Terceiros,4,Porteiro B
+"1,622",2026-05-15 10:50:00,Terceiros,5,Porteiro B
+"1,623",2026-05-15 10:50:00,Crachá/Armário,4,Porteiro C
+"1,624",2026-05-15 18:19:00,Revista Saída,1,Porteiro B
+"1,625",2026-05-15 16:37:00,Revista Saída,2,Porteiro B
+"1,626",2026-05-15 16:40:00,Revista Saída,3,Porteiro C
+"1,627",2026-05-15 16:54:00,Revista Saída,2,Porteiro A
+"1,628",2026-05-15 16:48:00,Revista Saída,1,Porteiro C
+"1,629",2026-05-15 16:37:00,Revista Saída,2,Porteiro C
+"1,630",2026-05-15 17:35:00,Revista Saída,3,Porteiro A
+"1,631",2026-05-15 16:37:00,Revista Saída,2,Porteiro C
+"1,632",2026-05-15 18:27:00,Revista Saída,1,Porteiro C
+"1,633",2026-05-15 18:39:00,Terceiros,2,Porteiro C
+"1,634",2026-05-15 16:53:00,Revista Saída,1,Porteiro C
+"1,635",2026-05-15 17:55:00,Revista Saída,3,Porteiro A
+"1,636",2026-05-15 16:00:00,Terceiros,3,Porteiro A
+"1,637",2026-05-16 07:27:00,Crachá/Armário,4,Porteiro C
+"1,638",2026-05-16 08:10:00,Crachá/Armário,3,Porteiro A
+"1,639",2026-05-16 07:47:00,Crachá/Armário,5,Porteiro B
+"1,640",2026-05-16 06:30:00,Crachá/Armário,2,Porteiro B
+"1,641",2026-05-16 06:29:00,Crachá/Armário,4,Porteiro C
+"1,642",2026-05-16 08:44:00,Crachá/Armário,4,Porteiro B
+"1,643",2026-05-16 07:42:00,Crachá/Armário,3,Porteiro C
+"1,644",2026-05-16 07:05:00,Terceiros,4,Porteiro A
+"1,645",2026-05-16 07:41:00,Terceiros,2,Porteiro A
+"1,646",2026-05-16 12:36:00,Afastamento/RH,9,Porteiro B
+"1,647",2026-05-16 12:08:00,Crachá/Armário,8,Porteiro C
+"1,648",2026-05-16 15:51:00,Afastamento/RH,11,Porteiro B
+"1,649",2026-05-16 12:04:00,Afastamento/RH,4,Porteiro A
+"1,650",2026-05-16 10:44:00,Terceiros,6,Porteiro C
+"1,651",2026-05-16 11:02:00,Afastamento/RH,11,Porteiro A
+"1,652",2026-05-16 11:57:00,Afastamento/RH,9,Porteiro C
+"1,653",2026-05-16 12:20:00,Crachá/Armário,10,Porteiro C
+"1,654",2026-05-16 09:27:00,Terceiros,8,Porteiro C
+"1,655",2026-05-16 13:46:00,Crachá/Armário,7,Porteiro C
+"1,656",2026-05-16 13:16:00,Terceiros,5,Porteiro B
+"1,657",2026-05-16 09:23:00,Terceiros,8,Porteiro C
+"1,658",2026-05-16 13:07:00,Afastamento/RH,4,Porteiro A
+"1,659",2026-05-16 12:53:00,Afastamento/RH,11,Porteiro C
+"1,660",2026-05-16 13:33:00,Terceiros,8,Porteiro C
+"1,661",2026-05-16 12:53:00,Afastamento/RH,6,Porteiro C
+"1,662",2026-05-16 12:04:00,Terceiros,7,Porteiro A
+"1,663",2026-05-16 14:57:00,Crachá/Armário,4,Porteiro C
+"1,664",2026-05-16 11:25:00,Crachá/Armário,7,Porteiro B
+"1,665",2026-05-16 15:54:00,Afastamento/RH,9,Porteiro C
+"1,666",2026-05-16 09:23:00,Afastamento/RH,6,Porteiro C
+"1,667",2026-05-16 16:50:00,Revista Saída,3,Porteiro A
+"1,668",2026-05-16 17:26:00,Revista Saída,3,Porteiro C
+"1,669",2026-05-16 18:46:00,Revista Saída,1,Porteiro C
+"1,670",2026-05-16 18:08:00,Revista Saída,1,Porteiro A
+"1,671",2026-05-16 16:48:00,Revista Saída,3,Porteiro C
+"1,672",2026-05-16 17:02:00,Revista Saída,1,Porteiro C
+"1,673",2026-05-16 17:30:00,Revista Saída,2,Porteiro B
+"1,674",2026-05-16 16:21:00,Revista Saída,2,Porteiro B
+"1,675",2026-05-16 17:20:00,Revista Saída,2,Porteiro A
+"1,676",2026-05-16 18:55:00,Revista Saída,2,Porteiro C
+"1,677",2026-05-16 18:18:00,Revista Saída,2,Porteiro A
+"1,678",2026-05-16 18:29:00,Revista Saída,1,Porteiro A
+"1,679",2026-05-16 16:00:00,Revista Saída,1,Porteiro A
+"1,680",2026-05-16 16:00:00,Revista Saída,2,Porteiro C
+"1,681",2026-05-16 18:08:00,Revista Saída,2,Porteiro B
+"1,682",2026-05-16 18:37:00,Revista Saída,3,Porteiro B
+"1,683",2026-05-16 16:44:00,Revista Saída,1,Porteiro A
+"1,684",2026-05-17 08:37:00,Crachá/Armário,5,Porteiro A
+"1,685",2026-05-17 08:33:00,Terceiros,5,Porteiro B
+"1,686",2026-05-17 07:01:00,Terceiros,5,Porteiro C
+"1,687",2026-05-17 08:59:00,Terceiros,4,Porteiro C
+"1,688",2026-05-17 07:55:00,Crachá/Armário,4,Porteiro B
+"1,689",2026-05-17 06:38:00,Crachá/Armário,2,Porteiro A
+"1,690",2026-05-17 06:29:00,Terceiros,2,Porteiro C
+"1,691",2026-05-17 06:18:00,Crachá/Armário,3,Porteiro C
+"1,692",2026-05-17 06:54:00,Crachá/Armário,3,Porteiro B
+"1,693",2026-05-17 07:35:00,Crachá/Armário,5,Porteiro B
+"1,694",2026-05-17 12:45:00,Crachá/Armário,11,Porteiro C
+"1,695",2026-05-17 14:29:00,Terceiros,8,Porteiro C
+"1,696",2026-05-17 15:07:00,Afastamento/RH,10,Porteiro C
+"1,697",2026-05-17 14:33:00,Afastamento/RH,5,Porteiro C
+"1,698",2026-05-17 11:40:00,Terceiros,10,Porteiro A
+"1,699",2026-05-17 15:48:00,Terceiros,5,Porteiro B
+"1,700",2026-05-17 14:37:00,Crachá/Armário,11,Porteiro B
+"1,701",2026-05-17 09:05:00,Afastamento/RH,4,Porteiro A
+"1,702",2026-05-17 12:10:00,Crachá/Armário,6,Porteiro C
+"1,703",2026-05-17 09:26:00,Crachá/Armário,7,Porteiro B
+"1,704",2026-05-17 15:50:00,Afastamento/RH,4,Porteiro B
+"1,705",2026-05-17 12:50:00,Afastamento/RH,5,Porteiro C
+"1,706",2026-05-17 10:28:00,Afastamento/RH,6,Porteiro A
+"1,707",2026-05-17 18:09:00,Revista Saída,1,Porteiro A
+"1,708",2026-05-17 18:12:00,Revista Saída,3,Porteiro A
+"1,709",2026-05-17 18:24:00,Revista Saída,1,Porteiro C
+"1,710",2026-05-17 18:11:00,Terceiros,1,Porteiro A
+"1,711",2026-05-17 17:47:00,Revista Saída,1,Porteiro C
+"1,712",2026-05-17 18:47:00,Revista Saída,2,Porteiro C
+"1,713",2026-05-17 16:59:00,Terceiros,1,Porteiro B
+"1,714",2026-05-17 16:12:00,Revista Saída,2,Porteiro A
+"1,715",2026-05-17 16:37:00,Revista Saída,2,Porteiro A
+"1,716",2026-05-17 16:22:00,Revista Saída,2,Porteiro A
+"1,717",2026-05-17 18:35:00,Revista Saída,2,Porteiro A
+"1,718",2026-05-17 17:53:00,Revista Saída,1,Porteiro C
+"1,719",2026-05-17 18:12:00,Revista Saída,2,Porteiro B
+"1,720",2026-05-17 17:52:00,Revista Saída,1,Porteiro B
+"1,721",2026-05-17 17:12:00,Revista Saída,2,Porteiro B
+"1,722",2026-05-17 16:35:00,Terceiros,3,Porteiro A
+"1,723",2026-05-17 18:46:00,Revista Saída,2,Porteiro A
+"1,724",2026-05-18 06:35:00,Crachá/Armário,3,Porteiro B
+"1,725",2026-05-18 06:19:00,Crachá/Armário,5,Porteiro C
+"1,726",2026-05-18 06:39:00,Crachá/Armário,5,Porteiro C
+"1,727",2026-05-18 07:52:00,Crachá/Armário,4,Porteiro B
+"1,728",2026-05-18 06:33:00,Crachá/Armário,4,Porteiro A
+"1,729",2026-05-18 06:32:00,Terceiros,4,Porteiro A
+"1,730",2026-05-18 07:11:00,Crachá/Armário,4,Porteiro A
+"1,731",2026-05-18 06:06:00,Terceiros,4,Porteiro A
+"1,732",2026-05-18 08:07:00,Terceiros,2,Porteiro A
+"1,733",2026-05-18 07:58:00,Crachá/Armário,4,Porteiro A
+"1,734",2026-05-18 13:33:00,Terceiros,8,Porteiro C
+"1,735",2026-05-18 12:22:00,Terceiros,7,Porteiro B
+"1,736",2026-05-18 09:54:00,Terceiros,11,Porteiro B
+"1,737",2026-05-18 11:14:00,Terceiros,9,Porteiro A
+"1,738",2026-05-18 09:58:00,Terceiros,10,Porteiro B
+"1,739",2026-05-18 09:25:00,Crachá/Armário,6,Porteiro A
+"1,740",2026-05-18 11:10:00,Crachá/Armário,11,Porteiro C
+"1,741",2026-05-18 15:27:00,Terceiros,4,Porteiro A
+"1,742",2026-05-18 15:51:00,Afastamento/RH,9,Porteiro A
+"1,743",2026-05-18 15:30:00,Terceiros,5,Porteiro B
+"1,744",2026-05-18 09:49:00,Afastamento/RH,7,Porteiro A
+"1,745",2026-05-18 11:55:00,Afastamento/RH,5,Porteiro B
+"1,746",2026-05-18 11:33:00,Afastamento/RH,8,Porteiro B
+"1,747",2026-05-18 13:45:00,Afastamento/RH,9,Porteiro B
+"1,748",2026-05-18 14:17:00,Terceiros,9,Porteiro A
+"1,749",2026-05-18 15:29:00,Terceiros,9,Porteiro A
+"1,750",2026-05-18 12:44:00,Afastamento/RH,4,Porteiro A
+"1,751",2026-05-18 11:12:00,Terceiros,10,Porteiro B
+"1,752",2026-05-18 09:15:00,Terceiros,7,Porteiro C
+"1,753",2026-05-18 10:56:00,Afastamento/RH,8,Porteiro A
+"1,754",2026-05-18 18:22:00,Revista Saída,2,Porteiro B
+"1,755",2026-05-18 17:05:00,Revista Saída,3,Porteiro A
+"1,756",2026-05-18 18:33:00,Revista Saída,3,Porteiro A
+"1,757",2026-05-18 17:33:00,Revista Saída,1,Porteiro B
+"1,758",2026-05-18 17:31:00,Revista Saída,2,Porteiro A
+"1,759",2026-05-18 18:38:00,Revista Saída,2,Porteiro B
+"1,760",2026-05-18 16:21:00,Revista Saída,1,Porteiro B
+"1,761",2026-05-18 16:27:00,Terceiros,2,Porteiro C
+"1,762",2026-05-18 18:20:00,Revista Saída,2,Porteiro C
+"1,763",2026-05-18 18:21:00,Revista Saída,1,Porteiro A
+"1,764",2026-05-18 18:43:00,Revista Saída,2,Porteiro A
+"1,765",2026-05-19 08:26:00,Terceiros,2,Porteiro A
+"1,766",2026-05-19 06:06:00,Crachá/Armário,5,Porteiro A
+"1,767",2026-05-19 07:34:00,Crachá/Armário,4,Porteiro C
+"1,768",2026-05-19 07:13:00,Crachá/Armário,2,Porteiro A
+"1,769",2026-05-19 06:26:00,Crachá/Armário,2,Porteiro B
+"1,770",2026-05-19 06:57:00,Terceiros,5,Porteiro C
+"1,771",2026-05-19 07:58:00,Crachá/Armário,2,Porteiro A
+"1,772",2026-05-19 07:00:00,Crachá/Armário,3,Porteiro A
+"1,773",2026-05-19 06:28:00,Crachá/Armário,5,Porteiro C
+"1,774",2026-05-19 08:20:00,Crachá/Armário,3,Porteiro C
+"1,775",2026-05-19 08:44:00,Crachá/Armário,4,Porteiro C
+"1,776",2026-05-19 08:25:00,Terceiros,2,Porteiro B
+"1,777",2026-05-19 08:41:00,Terceiros,3,Porteiro A
+"1,778",2026-05-19 09:47:00,Afastamento/RH,10,Porteiro B
+"1,779",2026-05-19 12:45:00,Afastamento/RH,7,Porteiro B
+"1,780",2026-05-19 15:34:00,Terceiros,6,Porteiro C
+"1,781",2026-05-19 11:39:00,Afastamento/RH,7,Porteiro B
+"1,782",2026-05-19 13:23:00,Afastamento/RH,7,Porteiro C
+"1,783",2026-05-19 10:56:00,Afastamento/RH,8,Porteiro C
+"1,784",2026-05-19 13:04:00,Afastamento/RH,8,Porteiro B
+"1,785",2026-05-19 09:56:00,Terceiros,7,Porteiro B
+"1,786",2026-05-19 14:36:00,Terceiros,11,Porteiro C
+"1,787",2026-05-19 15:37:00,Afastamento/RH,7,Porteiro C
+"1,788",2026-05-19 11:21:00,Terceiros,7,Porteiro B
+"1,789",2026-05-19 11:35:00,Terceiros,8,Porteiro A
+"1,790",2026-05-19 15:57:00,Afastamento/RH,9,Porteiro A
+"1,791",2026-05-19 09:47:00,Crachá/Armário,9,Porteiro A
+"1,792",2026-05-19 14:47:00,Crachá/Armário,9,Porteiro C
+"1,793",2026-05-19 14:20:00,Terceiros,11,Porteiro A
+"1,794",2026-05-19 11:54:00,Terceiros,5,Porteiro C
+"1,795",2026-05-19 10:08:00,Afastamento/RH,11,Porteiro B
+"1,796",2026-05-19 14:56:00,Afastamento/RH,11,Porteiro C
+"1,797",2026-05-19 18:20:00,Revista Saída,1,Porteiro A
+"1,798",2026-05-19 18:24:00,Revista Saída,1,Porteiro A
+"1,799",2026-05-19 18:23:00,Revista Saída,3,Porteiro C
+"1,800",2026-05-19 18:05:00,Terceiros,3,Porteiro B
+"1,801",2026-05-19 18:56:00,Revista Saída,3,Porteiro A
+"1,802",2026-05-19 16:08:00,Revista Saída,2,Porteiro A
+"1,803",2026-05-19 18:16:00,Revista Saída,3,Porteiro A
+"1,804",2026-05-19 18:00:00,Revista Saída,2,Porteiro C
+"1,805",2026-05-19 17:48:00,Revista Saída,3,Porteiro B
+"1,806",2026-05-19 17:32:00,Terceiros,1,Porteiro C
+"1,807",2026-05-20 08:28:00,Terceiros,2,Porteiro A
+"1,808",2026-05-20 06:39:00,Crachá/Armário,2,Porteiro A
+"1,809",2026-05-20 08:15:00,Terceiros,2,Porteiro B
+"1,810",2026-05-20 08:18:00,Crachá/Armário,4,Porteiro C
+"1,811",2026-05-20 07:24:00,Crachá/Armário,5,Porteiro C
+"1,812",2026-05-20 07:55:00,Terceiros,2,Porteiro A
+"1,813",2026-05-20 08:13:00,Crachá/Armário,4,Porteiro B
+"1,814",2026-05-20 08:18:00,Crachá/Armário,5,Porteiro A
+"1,815",2026-05-20 06:11:00,Crachá/Armário,4,Porteiro A
+"1,816",2026-05-20 08:11:00,Crachá/Armário,2,Porteiro A
+"1,817",2026-05-20 06:27:00,Crachá/Armário,3,Porteiro C
+"1,818",2026-05-20 14:49:00,Afastamento/RH,6,Porteiro B
+"1,819",2026-05-20 13:58:00,Afastamento/RH,10,Porteiro C
+"1,820",2026-05-20 12:32:00,Terceiros,9,Porteiro C
+"1,821",2026-05-20 15:22:00,Afastamento/RH,6,Porteiro B
+"1,822",2026-05-20 13:55:00,Crachá/Armário,11,Porteiro B
+"1,823",2026-05-20 15:09:00,Crachá/Armário,11,Porteiro B
+"1,824",2026-05-20 14:28:00,Crachá/Armário,5,Porteiro B
+"1,825",2026-05-20 10:04:00,Crachá/Armário,4,Porteiro A
+"1,826",2026-05-20 10:25:00,Terceiros,4,Porteiro C
+"1,827",2026-05-20 09:11:00,Afastamento/RH,6,Porteiro B
+"1,828",2026-05-20 10:24:00,Terceiros,5,Porteiro B
+"1,829",2026-05-20 14:21:00,Afastamento/RH,10,Porteiro C
+"1,830",2026-05-20 16:46:00,Terceiros,3,Porteiro A
+"1,831",2026-05-20 17:19:00,Revista Saída,3,Porteiro C
+"1,832",2026-05-20 17:29:00,Revista Saída,2,Porteiro C
+"1,833",2026-05-20 17:14:00,Revista Saída,1,Porteiro A
+"1,834",2026-05-20 17:40:00,Revista Saída,3,Porteiro B
+"1,835",2026-05-20 16:03:00,Terceiros,2,Porteiro A
+"1,836",2026-05-20 17:52:00,Terceiros,2,Porteiro C
+"1,837",2026-05-20 16:58:00,Revista Saída,2,Porteiro B
+"1,838",2026-05-20 16:44:00,Revista Saída,1,Porteiro A
+"1,839",2026-05-20 18:48:00,Revista Saída,3,Porteiro A
+"1,840",2026-05-20 17:35:00,Revista Saída,2,Porteiro B
+"1,841",2026-05-20 17:47:00,Revista Saída,2,Porteiro B
+"1,842",2026-05-21 07:49:00,Crachá/Armário,4,Porteiro A
+"1,843",2026-05-21 08:24:00,Crachá/Armário,4,Porteiro A
+"1,844",2026-05-21 08:08:00,Crachá/Armário,4,Porteiro A
+"1,845",2026-05-21 08:56:00,Crachá/Armário,3,Porteiro A
+"1,846",2026-05-21 08:48:00,Terceiros,4,Porteiro C
+"1,847",2026-05-21 08:32:00,Crachá/Armário,2,Porteiro C
+"1,848",2026-05-21 07:39:00,Crachá/Armário,3,Porteiro C
+"1,849",2026-05-21 07:57:00,Crachá/Armário,5,Porteiro B
+"1,850",2026-05-21 07:47:00,Crachá/Armário,3,Porteiro B
+"1,851",2026-05-21 08:18:00,Crachá/Armário,4,Porteiro A
+"1,852",2026-05-21 14:02:00,Terceiros,4,Porteiro C
+"1,853",2026-05-21 11:45:00,Afastamento/RH,9,Porteiro B
+"1,854",2026-05-21 09:08:00,Afastamento/RH,6,Porteiro A
+"1,855",2026-05-21 15:48:00,Crachá/Armário,4,Porteiro B
+"1,856",2026-05-21 13:08:00,Afastamento/RH,6,Porteiro A
+"1,857",2026-05-21 10:57:00,Afastamento/RH,7,Porteiro B
+"1,858",2026-05-21 10:39:00,Afastamento/RH,7,Porteiro C
+"1,859",2026-05-21 13:14:00,Afastamento/RH,5,Porteiro C
+"1,860",2026-05-21 14:10:00,Terceiros,8,Porteiro B
+"1,861",2026-05-21 15:42:00,Afastamento/RH,7,Porteiro C
+"1,862",2026-05-21 09:54:00,Terceiros,9,Porteiro B
+"1,863",2026-05-21 09:00:00,Crachá/Armário,8,Porteiro A
+"1,864",2026-05-21 13:48:00,Afastamento/RH,8,Porteiro B
+"1,865",2026-05-21 15:02:00,Crachá/Armário,7,Porteiro C
+"1,866",2026-05-21 11:03:00,Afastamento/RH,7,Porteiro C
+"1,867",2026-05-21 10:22:00,Afastamento/RH,8,Porteiro C
+"1,868",2026-05-21 10:51:00,Crachá/Armário,8,Porteiro C
+"1,869",2026-05-21 14:31:00,Crachá/Armário,8,Porteiro B
+"1,870",2026-05-21 10:48:00,Terceiros,10,Porteiro A
+"1,871",2026-05-21 16:08:00,Revista Saída,1,Porteiro C
+"1,872",2026-05-21 18:21:00,Revista Saída,1,Porteiro B
+"1,873",2026-05-21 18:16:00,Revista Saída,3,Porteiro B
+"1,874",2026-05-21 16:21:00,Revista Saída,3,Porteiro A
+"1,875",2026-05-21 18:12:00,Revista Saída,3,Porteiro C
+"1,876",2026-05-21 16:16:00,Revista Saída,1,Porteiro B
+"1,877",2026-05-21 16:05:00,Revista Saída,2,Porteiro B
+"1,878",2026-05-21 17:32:00,Revista Saída,2,Porteiro C
+"1,879",2026-05-21 17:50:00,Revista Saída,2,Porteiro C
+"1,880",2026-05-21 18:35:00,Revista Saída,2,Porteiro C
+"1,881",2026-05-22 08:54:00,Crachá/Armário,4,Porteiro C
+"1,882",2026-05-22 07:14:00,Terceiros,5,Porteiro C
+"1,883",2026-05-22 06:08:00,Crachá/Armário,3,Porteiro A
+"1,884",2026-05-22 08:02:00,Crachá/Armário,4,Porteiro B
+"1,885",2026-05-22 06:28:00,Crachá/Armário,4,Porteiro A
+"1,886",2026-05-22 07:00:00,Crachá/Armário,5,Porteiro C
+"1,887",2026-05-22 06:47:00,Crachá/Armário,5,Porteiro A
+"1,888",2026-05-22 06:38:00,Crachá/Armário,3,Porteiro A
+"1,889",2026-05-22 08:12:00,Crachá/Armário,2,Porteiro C
+"1,890",2026-05-22 08:57:00,Crachá/Armário,2,Porteiro A
+"1,891",2026-05-22 06:16:00,Terceiros,4,Porteiro A
+"1,892",2026-05-22 08:14:00,Terceiros,4,Porteiro B
+"1,893",2026-05-22 06:53:00,Terceiros,5,Porteiro A
+"1,894",2026-05-22 14:15:00,Afastamento/RH,7,Porteiro C
+"1,895",2026-05-22 14:40:00,Terceiros,8,Porteiro C
+"1,896",2026-05-22 11:01:00,Afastamento/RH,10,Porteiro C
+"1,897",2026-05-22 11:52:00,Afastamento/RH,4,Porteiro B
+"1,898",2026-05-22 11:47:00,Afastamento/RH,11,Porteiro B
+"1,899",2026-05-22 14:11:00,Afastamento/RH,11,Porteiro C
+"1,900",2026-05-22 12:51:00,Terceiros,8,Porteiro B
+"1,901",2026-05-22 10:12:00,Crachá/Armário,10,Porteiro A
+"1,902",2026-05-22 11:41:00,Afastamento/RH,6,Porteiro C
+"1,903",2026-05-22 14:13:00,Afastamento/RH,6,Porteiro C
+"1,904",2026-05-22 14:03:00,Afastamento/RH,7,Porteiro C
+"1,905",2026-05-22 10:30:00,Terceiros,6,Porteiro B
+"1,906",2026-05-22 11:01:00,Terceiros,4,Porteiro A
+"1,907",2026-05-22 12:30:00,Crachá/Armário,8,Porteiro C
+"1,908",2026-05-22 09:35:00,Terceiros,5,Porteiro B
+"1,909",2026-05-22 13:47:00,Terceiros,10,Porteiro B
+"1,910",2026-05-22 12:16:00,Afastamento/RH,6,Porteiro A
+"1,911",2026-05-22 11:06:00,Terceiros,10,Porteiro B
+"1,912",2026-05-22 13:57:00,Crachá/Armário,10,Porteiro C
+"1,913",2026-05-22 11:20:00,Terceiros,7,Porteiro B
+"1,914",2026-05-22 16:21:00,Revista Saída,2,Porteiro A
+"1,915",2026-05-22 16:10:00,Revista Saída,3,Porteiro A
+"1,916",2026-05-22 16:58:00,Terceiros,2,Porteiro B
+"1,917",2026-05-22 18:14:00,Revista Saída,2,Porteiro B
+"1,918",2026-05-22 17:11:00,Revista Saída,3,Porteiro B
+"1,919",2026-05-22 17:31:00,Revista Saída,2,Porteiro B
+"1,920",2026-05-22 16:46:00,Revista Saída,3,Porteiro B
+"1,921",2026-05-22 16:00:00,Revista Saída,1,Porteiro B
+"1,922",2026-05-22 17:12:00,Revista Saída,3,Porteiro B
+"1,923",2026-05-22 17:38:00,Revista Saída,3,Porteiro C
+"1,924",2026-05-22 18:05:00,Revista Saída,2,Porteiro A
+"1,925",2026-05-22 16:27:00,Revista Saída,1,Porteiro C
+"1,926",2026-05-22 17:05:00,Revista Saída,3,Porteiro C
+"1,927",2026-05-22 16:59:00,Revista Saída,2,Porteiro B
+"1,928",2026-05-23 07:58:00,Crachá/Armário,4,Porteiro A
+"1,929",2026-05-23 08:39:00,Crachá/Armário,3,Porteiro B
+"1,930",2026-05-23 08:32:00,Crachá/Armário,5,Porteiro B
+"1,931",2026-05-23 08:19:00,Terceiros,2,Porteiro C
+"1,932",2026-05-23 08:31:00,Crachá/Armário,4,Porteiro A
+"1,933",2026-05-23 08:34:00,Crachá/Armário,5,Porteiro A
+"1,934",2026-05-23 06:48:00,Terceiros,4,Porteiro C
+"1,935",2026-05-23 06:50:00,Crachá/Armário,3,Porteiro C
+"1,936",2026-05-23 11:21:00,Afastamento/RH,9,Porteiro B
+"1,937",2026-05-23 09:31:00,Afastamento/RH,10,Porteiro C
+"1,938",2026-05-23 11:57:00,Terceiros,11,Porteiro A
+"1,939",2026-05-23 13:09:00,Afastamento/RH,7,Porteiro A
+"1,940",2026-05-23 13:18:00,Afastamento/RH,5,Porteiro A
+"1,941",2026-05-23 11:24:00,Afastamento/RH,6,Porteiro C
+"1,942",2026-05-23 11:45:00,Afastamento/RH,7,Porteiro A
+"1,943",2026-05-23 15:58:00,Afastamento/RH,8,Porteiro B
+"1,944",2026-05-23 12:53:00,Crachá/Armário,7,Porteiro B
+"1,945",2026-05-23 09:13:00,Afastamento/RH,6,Porteiro A
+"1,946",2026-05-23 10:26:00,Terceiros,5,Porteiro C
+"1,947",2026-05-23 11:20:00,Terceiros,10,Porteiro A
+"1,948",2026-05-23 11:24:00,Terceiros,5,Porteiro B
+"1,949",2026-05-23 11:00:00,Terceiros,7,Porteiro A
+"1,950",2026-05-23 15:39:00,Terceiros,9,Porteiro B
+"1,951",2026-05-23 15:16:00,Crachá/Armário,9,Porteiro B
+"1,952",2026-05-23 17:47:00,Revista Saída,3,Porteiro C
+"1,953",2026-05-23 18:11:00,Revista Saída,2,Porteiro B
+"1,954",2026-05-23 18:27:00,Revista Saída,2,Porteiro A
+"1,955",2026-05-23 16:01:00,Revista Saída,2,Porteiro B
+"1,956",2026-05-23 17:25:00,Revista Saída,3,Porteiro B
+"1,957",2026-05-23 16:39:00,Revista Saída,1,Porteiro C
+"1,958",2026-05-23 17:42:00,Revista Saída,1,Porteiro C
+"1,959",2026-05-23 18:55:00,Revista Saída,1,Porteiro C
+"1,960",2026-05-23 18:08:00,Terceiros,1,Porteiro B
+"1,961",2026-05-23 16:46:00,Revista Saída,1,Porteiro C
+"1,962",2026-05-23 18:52:00,Revista Saída,3,Porteiro A
+"1,963",2026-05-23 18:11:00,Revista Saída,2,Porteiro B
+"1,964",2026-05-23 16:18:00,Revista Saída,2,Porteiro B
+"1,965",2026-05-24 07:33:00,Crachá/Armário,3,Porteiro B
+"1,966",2026-05-24 07:31:00,Crachá/Armário,2,Porteiro C
+"1,967",2026-05-24 06:56:00,Terceiros,5,Porteiro C
+"1,968",2026-05-24 08:45:00,Crachá/Armário,2,Porteiro B
+"1,969",2026-05-24 07:38:00,Crachá/Armário,5,Porteiro A
+"1,970",2026-05-24 06:31:00,Terceiros,3,Porteiro B
+"1,971",2026-05-24 08:17:00,Crachá/Armário,4,Porteiro C
+"1,972",2026-05-24 08:21:00,Crachá/Armário,4,Porteiro C
+"1,973",2026-05-24 07:31:00,Crachá/Armário,5,Porteiro B
+"1,974",2026-05-24 07:39:00,Crachá/Armário,5,Porteiro C
+"1,975",2026-05-24 07:22:00,Crachá/Armário,4,Porteiro C
+"1,976",2026-05-24 08:41:00,Terceiros,3,Porteiro A
+"1,977",2026-05-24 07:08:00,Crachá/Armário,2,Porteiro B
+"1,978",2026-05-24 08:11:00,Terceiros,4,Porteiro B
+"1,979",2026-05-24 15:12:00,Crachá/Armário,4,Porteiro B
+"1,980",2026-05-24 11:20:00,Afastamento/RH,11,Porteiro A
+"1,981",2026-05-24 15:11:00,Afastamento/RH,6,Porteiro C
+"1,982",2026-05-24 09:34:00,Terceiros,11,Porteiro C
+"1,983",2026-05-24 15:03:00,Afastamento/RH,11,Porteiro B
+"1,984",2026-05-24 13:44:00,Crachá/Armário,8,Porteiro B
+"1,985",2026-05-24 11:12:00,Terceiros,5,Porteiro B
+"1,986",2026-05-24 15:53:00,Afastamento/RH,10,Porteiro A
+"1,987",2026-05-24 13:31:00,Afastamento/RH,10,Porteiro B
+"1,988",2026-05-24 12:52:00,Afastamento/RH,7,Porteiro C
+"1,989",2026-05-24 13:53:00,Crachá/Armário,9,Porteiro A
+"1,990",2026-05-24 14:07:00,Terceiros,9,Porteiro A
+"1,991",2026-05-24 14:13:00,Afastamento/RH,5,Porteiro C
+"1,992",2026-05-24 11:11:00,Terceiros,10,Porteiro A
+"1,993",2026-05-24 15:04:00,Afastamento/RH,4,Porteiro C
+"1,994",2026-05-24 09:30:00,Afastamento/RH,5,Porteiro C
+"1,995",2026-05-24 15:21:00,Terceiros,8,Porteiro C
+"1,996",2026-05-24 10:49:00,Afastamento/RH,7,Porteiro A
+"1,997",2026-05-24 17:35:00,Revista Saída,3,Porteiro A
+"1,998",2026-05-24 16:23:00,Revista Saída,2,Porteiro C
+"1,999",2026-05-24 16:22:00,Revista Saída,3,Porteiro B
+"2,000",2026-05-24 18:58:00,Revista Saída,1,Porteiro A
+"2,001",2026-05-24 16:15:00,Revista Saída,2,Porteiro B
+"2,002",2026-05-24 18:16:00,Revista Saída,1,Porteiro B
+"2,003",2026-05-24 16:45:00,Revista Saída,1,Porteiro C
+"2,004",2026-05-24 16:29:00,Revista Saída,3,Porteiro A
+"2,005",2026-05-24 18:51:00,Revista Saída,2,Porteiro C
+"2,006",2026-05-24 16:22:00,Revista Saída,2,Porteiro A
+"2,007",2026-05-25 06:53:00,Terceiros,5,Porteiro C
+"2,008",2026-05-25 08:33:00,Crachá/Armário,5,Porteiro C
+"2,009",2026-05-25 06:44:00,Crachá/Armário,2,Porteiro C
+"2,010",2026-05-25 07:11:00,Crachá/Armário,5,Porteiro B
+"2,011",2026-05-25 07:50:00,Terceiros,4,Porteiro C
+"2,012",2026-05-25 06:32:00,Crachá/Armário,2,Porteiro A
+"2,013",2026-05-25 06:39:00,Terceiros,3,Porteiro B
+"2,014",2026-05-25 07:37:00,Crachá/Armário,5,Porteiro C
+"2,015",2026-05-25 09:48:00,Afastamento/RH,6,Porteiro A
+"2,016",2026-05-25 13:50:00,Afastamento/RH,11,Porteiro C
+"2,017",2026-05-25 15:27:00,Terceiros,9,Porteiro C
+"2,018",2026-05-25 14:27:00,Crachá/Armário,10,Porteiro A
+"2,019",2026-05-25 11:51:00,Terceiros,5,Porteiro A
+"2,020",2026-05-25 11:35:00,Crachá/Armário,7,Porteiro B
+"2,021",2026-05-25 09:40:00,Afastamento/RH,7,Porteiro B
+"2,022",2026-05-25 11:57:00,Afastamento/RH,9,Porteiro C
+"2,023",2026-05-25 12:00:00,Afastamento/RH,11,Porteiro A
+"2,024",2026-05-25 15:11:00,Afastamento/RH,11,Porteiro B
+"2,025",2026-05-25 12:37:00,Afastamento/RH,4,Porteiro C
+"2,026",2026-05-25 12:30:00,Afastamento/RH,9,Porteiro A
+"2,027",2026-05-25 09:33:00,Afastamento/RH,11,Porteiro B
+"2,028",2026-05-25 14:41:00,Crachá/Armário,7,Porteiro B
+"2,029",2026-05-25 11:02:00,Afastamento/RH,6,Porteiro B
+"2,030",2026-05-25 11:15:00,Terceiros,6,Porteiro A
+"2,031",2026-05-25 13:43:00,Afastamento/RH,5,Porteiro C
+"2,032",2026-05-25 17:19:00,Revista Saída,3,Porteiro C
+"2,033",2026-05-25 16:53:00,Revista Saída,2,Porteiro C
+"2,034",2026-05-25 17:20:00,Revista Saída,1,Porteiro B
+"2,035",2026-05-25 16:32:00,Revista Saída,1,Porteiro C
+"2,036",2026-05-25 17:57:00,Revista Saída,3,Porteiro B
+"2,037",2026-05-25 16:20:00,Revista Saída,2,Porteiro A
+"2,038",2026-05-25 17:48:00,Revista Saída,3,Porteiro C
+"2,039",2026-05-25 18:17:00,Revista Saída,3,Porteiro B
+"2,040",2026-05-25 18:02:00,Revista Saída,2,Porteiro A
+"2,041",2026-05-25 16:07:00,Revista Saída,1,Porteiro A
+"2,042",2026-05-25 17:44:00,Revista Saída,1,Porteiro C
+"2,043",2026-05-25 16:37:00,Revista Saída,1,Porteiro C
+"2,044",2026-05-25 17:00:00,Revista Saída,3,Porteiro B
+"2,045",2026-05-25 18:27:00,Revista Saída,3,Porteiro B
+"2,046",2026-05-25 16:58:00,Revista Saída,1,Porteiro A
+"2,047",2026-05-25 17:27:00,Terceiros,1,Porteiro C
+"2,048",2026-05-26 07:20:00,Crachá/Armário,3,Porteiro C
+"2,049",2026-05-26 08:51:00,Crachá/Armário,2,Porteiro C
+"2,050",2026-05-26 07:39:00,Terceiros,2,Porteiro A
+"2,051",2026-05-26 06:41:00,Crachá/Armário,2,Porteiro C
+"2,052",2026-05-26 06:21:00,Crachá/Armário,2,Porteiro B
+"2,053",2026-05-26 08:16:00,Crachá/Armário,3,Porteiro A
+"2,054",2026-05-26 06:37:00,Crachá/Armário,3,Porteiro A
+"2,055",2026-05-26 07:34:00,Crachá/Armário,4,Porteiro A
+"2,056",2026-05-26 08:53:00,Terceiros,2,Porteiro A
+"2,057",2026-05-26 08:52:00,Crachá/Armário,5,Porteiro B
+"2,058",2026-05-26 06:21:00,Crachá/Armário,4,Porteiro A
+"2,059",2026-05-26 07:25:00,Terceiros,3,Porteiro B
+"2,060",2026-05-26 07:58:00,Crachá/Armário,3,Porteiro A
+"2,061",2026-05-26 06:13:00,Terceiros,4,Porteiro C
+"2,062",2026-05-26 15:42:00,Afastamento/RH,6,Porteiro A
+"2,063",2026-05-26 11:18:00,Afastamento/RH,6,Porteiro B
+"2,064",2026-05-26 12:39:00,Afastamento/RH,8,Porteiro A
+"2,065",2026-05-26 15:42:00,Crachá/Armário,6,Porteiro A
+"2,066",2026-05-26 14:57:00,Terceiros,8,Porteiro C
+"2,067",2026-05-26 15:03:00,Terceiros,11,Porteiro B
+"2,068",2026-05-26 12:44:00,Afastamento/RH,11,Porteiro A
+"2,069",2026-05-26 10:30:00,Afastamento/RH,11,Porteiro C
+"2,070",2026-05-26 11:30:00,Crachá/Armário,8,Porteiro B
+"2,071",2026-05-26 15:55:00,Afastamento/RH,10,Porteiro B
+"2,072",2026-05-26 13:56:00,Afastamento/RH,9,Porteiro B
+"2,073",2026-05-26 14:17:00,Afastamento/RH,8,Porteiro A
+"2,074",2026-05-26 15:59:00,Afastamento/RH,9,Porteiro A
+"2,075",2026-05-26 15:04:00,Afastamento/RH,11,Porteiro B
+"2,076",2026-05-26 17:43:00,Revista Saída,3,Porteiro B
+"2,077",2026-05-26 17:17:00,Revista Saída,2,Porteiro A
+"2,078",2026-05-26 16:09:00,Revista Saída,3,Porteiro C
+"2,079",2026-05-26 18:41:00,Revista Saída,1,Porteiro C
+"2,080",2026-05-26 16:40:00,Revista Saída,2,Porteiro B
+"2,081",2026-05-26 18:21:00,Revista Saída,2,Porteiro C
+"2,082",2026-05-26 18:12:00,Terceiros,3,Porteiro A
+"2,083",2026-05-26 18:13:00,Revista Saída,1,Porteiro C
+"2,084",2026-05-26 16:08:00,Revista Saída,3,Porteiro A
+"2,085",2026-05-26 18:04:00,Revista Saída,3,Porteiro B
+"2,086",2026-05-26 16:27:00,Revista Saída,3,Porteiro A
+"2,087",2026-05-26 17:13:00,Revista Saída,2,Porteiro B
+"2,088",2026-05-26 17:54:00,Revista Saída,1,Porteiro B
+"2,089",2026-05-26 18:51:00,Revista Saída,2,Porteiro C
+"2,090",2026-05-27 08:20:00,Terceiros,2,Porteiro C
+"2,091",2026-05-27 08:16:00,Crachá/Armário,5,Porteiro B
+"2,092",2026-05-27 06:41:00,Terceiros,4,Porteiro C
+"2,093",2026-05-27 06:50:00,Crachá/Armário,2,Porteiro C
+"2,094",2026-05-27 07:15:00,Crachá/Armário,5,Porteiro C
+"2,095",2026-05-27 08:46:00,Crachá/Armário,5,Porteiro A
+"2,096",2026-05-27 08:53:00,Crachá/Armário,4,Porteiro C
+"2,097",2026-05-27 08:14:00,Crachá/Armário,4,Porteiro C
+"2,098",2026-05-27 08:54:00,Crachá/Armário,5,Porteiro A
+"2,099",2026-05-27 07:42:00,Terceiros,2,Porteiro A
+"2,100",2026-05-27 12:20:00,Afastamento/RH,5,Porteiro B
+"2,101",2026-05-27 13:46:00,Crachá/Armário,9,Porteiro C
+"2,102",2026-05-27 14:09:00,Terceiros,7,Porteiro A
+"2,103",2026-05-27 13:28:00,Afastamento/RH,7,Porteiro C
+"2,104",2026-05-27 14:51:00,Afastamento/RH,5,Porteiro A
+"2,105",2026-05-27 13:26:00,Crachá/Armário,8,Porteiro A
+"2,106",2026-05-27 14:35:00,Afastamento/RH,11,Porteiro B
+"2,107",2026-05-27 13:53:00,Afastamento/RH,8,Porteiro C
+"2,108",2026-05-27 15:33:00,Afastamento/RH,9,Porteiro B
+"2,109",2026-05-27 13:35:00,Crachá/Armário,7,Porteiro C
+"2,110",2026-05-27 12:08:00,Afastamento/RH,6,Porteiro B
+"2,111",2026-05-27 14:51:00,Terceiros,4,Porteiro A
+"2,112",2026-05-27 12:49:00,Afastamento/RH,7,Porteiro C
+"2,113",2026-05-27 14:10:00,Afastamento/RH,5,Porteiro A
+"2,114",2026-05-27 12:33:00,Afastamento/RH,4,Porteiro B
+"2,115",2026-05-27 15:06:00,Afastamento/RH,5,Porteiro B
+"2,116",2026-05-27 15:34:00,Terceiros,8,Porteiro C
+"2,117",2026-05-27 11:30:00,Afastamento/RH,5,Porteiro C
+"2,118",2026-05-27 12:09:00,Afastamento/RH,7,Porteiro A
+"2,119",2026-05-27 17:38:00,Terceiros,3,Porteiro A
+"2,120",2026-05-27 18:54:00,Revista Saída,3,Porteiro B
+"2,121",2026-05-27 18:49:00,Revista Saída,1,Porteiro A
+"2,122",2026-05-27 18:27:00,Revista Saída,3,Porteiro A
+"2,123",2026-05-27 17:06:00,Revista Saída,3,Porteiro B
+"2,124",2026-05-27 18:39:00,Revista Saída,3,Porteiro A
+"2,125",2026-05-27 18:11:00,Revista Saída,3,Porteiro A
+"2,126",2026-05-27 17:01:00,Revista Saída,2,Porteiro B
+"2,127",2026-05-27 17:19:00,Revista Saída,1,Porteiro A
+"2,128",2026-05-27 17:59:00,Terceiros,1,Porteiro A
+"2,129",2026-05-27 16:53:00,Revista Saída,1,Porteiro B
+"2,130",2026-05-27 16:21:00,Revista Saída,2,Porteiro C
+"2,131",2026-05-27 18:40:00,Terceiros,2,Porteiro A
+"2,132",2026-05-27 17:11:00,Revista Saída,2,Porteiro A
+"2,133",2026-05-27 17:31:00,Revista Saída,3,Porteiro B
+"2,134",2026-05-27 16:50:00,Revista Saída,2,Porteiro C
+"2,135",2026-05-27 17:30:00,Revista Saída,2,Porteiro A
+"2,136",2026-05-28 06:27:00,Crachá/Armário,4,Porteiro A
+"2,137",2026-05-28 07:45:00,Crachá/Armário,3,Porteiro B
+"2,138",2026-05-28 07:57:00,Crachá/Armário,5,Porteiro B
+"2,139",2026-05-28 06:35:00,Terceiros,4,Porteiro A
+"2,140",2026-05-28 06:31:00,Crachá/Armário,5,Porteiro B
+"2,141",2026-05-28 07:02:00,Crachá/Armário,2,Porteiro C
+"2,142",2026-05-28 08:04:00,Crachá/Armário,5,Porteiro C
+"2,143",2026-05-28 07:38:00,Crachá/Armário,3,Porteiro A
+"2,144",2026-05-28 06:22:00,Crachá/Armário,4,Porteiro B
+"2,145",2026-05-28 08:43:00,Terceiros,3,Porteiro C
+"2,146",2026-05-28 07:04:00,Crachá/Armário,5,Porteiro C
+"2,147",2026-05-28 08:13:00,Crachá/Armário,2,Porteiro A
+"2,148",2026-05-28 08:34:00,Crachá/Armário,4,Porteiro B
+"2,149",2026-05-28 07:22:00,Terceiros,2,Porteiro C
+"2,150",2026-05-28 11:04:00,Terceiros,9,Porteiro C
+"2,151",2026-05-28 09:30:00,Afastamento/RH,8,Porteiro A
+"2,152",2026-05-28 12:26:00,Afastamento/RH,10,Porteiro A
+"2,153",2026-05-28 12:43:00,Afastamento/RH,6,Porteiro C
+"2,154",2026-05-28 15:53:00,Afastamento/RH,8,Porteiro B
+"2,155",2026-05-28 10:15:00,Crachá/Armário,9,Porteiro C
+"2,156",2026-05-28 09:57:00,Afastamento/RH,4,Porteiro A
+"2,157",2026-05-28 10:28:00,Crachá/Armário,11,Porteiro A
+"2,158",2026-05-28 11:32:00,Terceiros,6,Porteiro A
+"2,159",2026-05-28 11:43:00,Terceiros,8,Porteiro A
+"2,160",2026-05-28 15:03:00,Afastamento/RH,6,Porteiro B
+"2,161",2026-05-28 11:44:00,Terceiros,8,Porteiro A
+"2,162",2026-05-28 14:27:00,Afastamento/RH,8,Porteiro A
+"2,163",2026-05-28 14:42:00,Afastamento/RH,7,Porteiro B
+"2,164",2026-05-28 10:47:00,Afastamento/RH,10,Porteiro C
+"2,165",2026-05-28 16:19:00,Revista Saída,3,Porteiro C
+"2,166",2026-05-28 18:30:00,Revista Saída,3,Porteiro B
+"2,167",2026-05-28 17:26:00,Terceiros,2,Porteiro C
+"2,168",2026-05-28 18:05:00,Revista Saída,2,Porteiro A
+"2,169",2026-05-28 17:27:00,Terceiros,3,Porteiro B
+"2,170",2026-05-28 18:55:00,Revista Saída,3,Porteiro A
+"2,171",2026-05-28 16:11:00,Revista Saída,2,Porteiro C
+"2,172",2026-05-28 18:52:00,Revista Saída,1,Porteiro A
+"2,173",2026-05-28 16:24:00,Revista Saída,2,Porteiro A
+"2,174",2026-05-28 17:03:00,Revista Saída,1,Porteiro C
+"2,175",2026-05-28 17:57:00,Revista Saída,2,Porteiro A
+"2,176",2026-05-28 18:44:00,Revista Saída,3,Porteiro C
+"2,177",2026-05-28 16:25:00,Revista Saída,1,Porteiro C
+"2,178",2026-05-28 16:35:00,Revista Saída,3,Porteiro B
+"2,179",2026-05-29 06:02:00,Crachá/Armário,3,Porteiro A
+"2,180",2026-05-29 06:14:00,Crachá/Armário,2,Porteiro C
+"2,181",2026-05-29 07:41:00,Crachá/Armário,2,Porteiro B
+"2,182",2026-05-29 07:37:00,Crachá/Armário,2,Porteiro B
+"2,183",2026-05-29 08:21:00,Crachá/Armário,2,Porteiro A
+"2,184",2026-05-29 07:09:00,Crachá/Armário,5,Porteiro A
+"2,185",2026-05-29 07:37:00,Terceiros,2,Porteiro A
+"2,186",2026-05-29 06:59:00,Crachá/Armário,2,Porteiro C
+"2,187",2026-05-29 07:25:00,Crachá/Armário,4,Porteiro B
+"2,188",2026-05-29 07:08:00,Crachá/Armário,5,Porteiro A
+"2,189",2026-05-29 08:35:00,Crachá/Armário,4,Porteiro C
+"2,190",2026-05-29 10:27:00,Afastamento/RH,11,Porteiro C
+"2,191",2026-05-29 15:58:00,Afastamento/RH,7,Porteiro A
+"2,192",2026-05-29 09:38:00,Crachá/Armário,5,Porteiro C
+"2,193",2026-05-29 09:03:00,Afastamento/RH,9,Porteiro C
+"2,194",2026-05-29 10:43:00,Crachá/Armário,7,Porteiro B
+"2,195",2026-05-29 10:52:00,Afastamento/RH,8,Porteiro A
+"2,196",2026-05-29 15:57:00,Crachá/Armário,5,Porteiro A
+"2,197",2026-05-29 14:05:00,Terceiros,11,Porteiro B
+"2,198",2026-05-29 11:36:00,Afastamento/RH,9,Porteiro A
+"2,199",2026-05-29 14:56:00,Crachá/Armário,5,Porteiro A
+"2,200",2026-05-29 12:53:00,Terceiros,10,Porteiro A
+"2,201",2026-05-29 14:20:00,Afastamento/RH,8,Porteiro A
+"2,202",2026-05-29 11:52:00,Afastamento/RH,7,Porteiro C
+"2,203",2026-05-29 13:43:00,Afastamento/RH,6,Porteiro C
+"2,204",2026-05-29 11:17:00,Afastamento/RH,8,Porteiro B
+"2,205",2026-05-29 09:43:00,Afastamento/RH,5,Porteiro C
+"2,206",2026-05-29 12:58:00,Terceiros,4,Porteiro B
+"2,207",2026-05-29 13:23:00,Terceiros,7,Porteiro C
+"2,208",2026-05-29 14:41:00,Terceiros,4,Porteiro A
+"2,209",2026-05-29 15:58:00,Crachá/Armário,9,Porteiro C
+"2,210",2026-05-29 18:54:00,Revista Saída,2,Porteiro A
+"2,211",2026-05-29 17:31:00,Revista Saída,1,Porteiro B
+"2,212",2026-05-29 16:31:00,Revista Saída,3,Porteiro C
+"2,213",2026-05-29 17:14:00,Revista Saída,3,Porteiro C
+"2,214",2026-05-29 18:18:00,Revista Saída,1,Porteiro C
+"2,215",2026-05-29 18:05:00,Revista Saída,2,Porteiro A
+"2,216",2026-05-29 16:18:00,Terceiros,3,Porteiro B
+"2,217",2026-05-29 18:03:00,Revista Saída,3,Porteiro A
+"2,218",2026-05-29 18:15:00,Revista Saída,1,Porteiro B
+"2,219",2026-05-29 16:52:00,Revista Saída,3,Porteiro C
+"2,220",2026-05-29 17:33:00,Revista Saída,1,Porteiro A
+"2,221",2026-05-29 16:09:00,Terceiros,2,Porteiro A
+"2,222",2026-05-29 16:49:00,Revista Saída,1,Porteiro B
+"2,223",2026-05-30 07:40:00,Crachá/Armário,4,Porteiro C
+"2,224",2026-05-30 07:46:00,Terceiros,2,Porteiro B
+"2,225",2026-05-30 07:12:00,Crachá/Armário,5,Porteiro B
+"2,226",2026-05-30 08:59:00,Crachá/Armário,5,Porteiro C
+"2,227",2026-05-30 08:31:00,Crachá/Armário,5,Porteiro A
+"2,228",2026-05-30 07:56:00,Crachá/Armário,4,Porteiro B
+"2,229",2026-05-30 07:15:00,Terceiros,4,Porteiro B
+"2,230",2026-05-30 06:12:00,Crachá/Armário,5,Porteiro B
+"2,231",2026-05-30 07:46:00,Crachá/Armário,3,Porteiro C
+"2,232",2026-05-30 06:49:00,Crachá/Armário,5,Porteiro C
+"2,233",2026-05-30 06:49:00,Crachá/Armário,4,Porteiro C
+"2,234",2026-05-30 08:34:00,Crachá/Armário,3,Porteiro B
+"2,235",2026-05-30 07:53:00,Terceiros,5,Porteiro A
+"2,236",2026-05-30 11:42:00,Crachá/Armário,10,Porteiro B
+"2,237",2026-05-30 11:17:00,Crachá/Armário,7,Porteiro C
+"2,238",2026-05-30 09:18:00,Terceiros,7,Porteiro A
+"2,239",2026-05-30 14:48:00,Crachá/Armário,6,Porteiro B
+"2,240",2026-05-30 15:34:00,Afastamento/RH,9,Porteiro A
+"2,241",2026-05-30 14:22:00,Terceiros,9,Porteiro C
+"2,242",2026-05-30 12:44:00,Afastamento/RH,7,Porteiro C
+"2,243",2026-05-30 15:21:00,Crachá/Armário,11,Porteiro A
+"2,244",2026-05-30 09:40:00,Afastamento/RH,10,Porteiro C
+"2,245",2026-05-30 15:42:00,Terceiros,11,Porteiro B
+"2,246",2026-05-30 13:42:00,Afastamento/RH,10,Porteiro A
+"2,247",2026-05-30 13:56:00,Afastamento/RH,6,Porteiro A
+"2,248",2026-05-30 17:23:00,Revista Saída,3,Porteiro B
+"2,249",2026-05-30 18:49:00,Revista Saída,3,Porteiro B
+"2,250",2026-05-30 18:08:00,Revista Saída,1,Porteiro C
+"2,251",2026-05-30 16:25:00,Revista Saída,1,Porteiro A
+"2,252",2026-05-30 16:22:00,Revista Saída,2,Porteiro A
+"2,253",2026-05-30 16:27:00,Revista Saída,1,Porteiro B
+"2,254",2026-05-30 17:40:00,Revista Saída,1,Porteiro A
+"2,255",2026-05-30 17:05:00,Revista Saída,2,Porteiro B
+"2,256",2026-05-30 18:54:00,Revista Saída,1,Porteiro C
+"2,257",2026-05-30 17:48:00,Revista Saída,1,Porteiro C
+"2,258",2026-05-30 17:00:00,Revista Saída,1,Porteiro A
+"2,259",2026-05-30 17:42:00,Revista Saída,2,Porteiro A
+"2,260",2026-05-30 18:22:00,Revista Saída,2,Porteiro C
